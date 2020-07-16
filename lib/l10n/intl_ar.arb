@@ -1,0 +1,1659 @@
+{
+	"@@last_modified": "2020-06-03T06:56:27.341772",
+	"title": "آمين",
+	"@title": {
+		"description": "آمين",
+		"type": "text",
+		"placeholders": {}
+	},
+	"postYourDoaa": "أنشر الدعاء",
+	"@postYourDoaa": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"amen": "آمين",
+	"@amen": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"messages": "الرسائل",
+	"@messages": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"profilePage": "الصفحة الشخصية",
+	"@profilePage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"search": "بحث",
+	"@search": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"findYourFriends": "أبحث عن أصدقائك",
+	"@findYourFriends": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"followers": "متابعا",
+	"@followers": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"posts": "المنشورات",
+	"@posts": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"comment": "تعليق",
+	"@comment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"share": "مشاركة",
+	"@share": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"writeAComment": "أكتب تعليق ..",
+	"@writeAComment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addADoaa": "إضافة دعاء +",
+	"@addADoaa": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"settings": "الإعدادات",
+	"@settings": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editYourProfile": "إعدادات معلومات الحساب",
+	"@editYourProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"logout": "تسجيل خروج",
+	"@logout": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"login": "تسجيل دخول",
+	"@login": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yourEmail": "البريد الإلكتروني",
+	"@yourEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"forgetPassword": "هل نسيت كلمة السر ؟",
+	"@forgetPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"resetYourPassword": "استرجاع كلمة السر",
+	"@resetYourPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"donotHaveAnAccount": "ليس لديك حساب على آمين ؟",
+	"@donotHaveAnAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pastedbyAmen": "تم نقل هذا المنشور بواسطة تطبيق آمين",
+	"@pastedbyAmen": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noPostsFound": "لا يوجد أدعية",
+	"@noPostsFound": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"profile": "الصفحة الشخصية",
+	"@profile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unfollow": "إلغاء المتابعة",
+	"@unfollow": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"follow": "متابعة",
+	"@follow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sendMessage": "إرسالة رسالة",
+	"@sendMessage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"updateData": "تحديث البيانات",
+	"@updateData": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"commentIsEmpty": "التعليق ليس به أي محتوى",
+	"@commentIsEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"writeADoaa": "اكتب دعاء",
+	"@writeADoaa": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"successfullyShared": "لقد تم نشر الدعاء الخاص بك بنجاح ",
+	"@successfullyShared": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"emailAlreadyExisted": "هذا البريد الإلكتروني موجود بالفعل يرجى التأكد من البريد الإلكتروني مرة أخرى",
+	"@emailAlreadyExisted": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"emailIsNotExist": "هذا الإيميل غير موجود",
+	"@emailIsNotExist": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+
+	"welcomeToAmen": "❤ 🤲🏻  مرحبا بك في تطبيق آمين",
+	"@welcomeToAmen": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"cannotPasswordSmallerThan": "لا يمكن إدخال أقل من 6 ارقام أو حروف",
+	"@cannotPasswordSmallerThan": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"emailCannotBeEmpty": "لا يمكن ترك الإيميل الالكتروني فارغا",
+	"@emailCannotBeEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"shareADoaa": "نشر الدعاء",
+	"@shareADoaa": {
+		"type": "text",
+		"placeholders": {}
+	},
+
+	"doYouHaveAnAccount": "هل لديك حساب بالفعل ؟",
+	"@doYouHaveAnAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createAccount": "إنشاء حساب",
+	"@createAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"username": "إسم المستخدم",
+	"@username": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createANewPassword": "إنشاء كلمة سر جديدة",
+	"@createANewPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signup": "إشتراك",
+	"@signup": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"or": "أو",
+	"@or": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"deletePost": "حذف المنشور",
+	"@deletePost": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"loginAsAnonymous": "الدخول كمتصفج خفي",
+	"@loginAsAnonymous": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"savePost": "حفظ المنشور في القائمة",
+	"@savePost": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noInternet": "لا يوجد اتصال بالانترنت",
+	"@noInternet": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"postADoaaYouWant": "أنشر الدعاء الذي تتمنى أن يتحقق",
+	"@postADoaaYouWant": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notification": "الإشعارات",
+	"@notification": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmAdmin": "أنا المشرف",
+	"@iAmAdmin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openImageGalerry": "افتح غاليري الصورة",
+	"@openImageGalerry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCamera": "افتح الكاميرا",
+	"@openCamera": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"done": "فعله",
+	"@done": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"message": "رسالة",
+	"@message": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myToken": "الرمز الخاص بي",
+	"@myToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addToken": "أضف رمزًا",
+	"@addToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"create": "خلق",
+	"@create": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"businessInfo": "معلومات العمل",
+	"@businessInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterInfo": "معلومات العداد",
+	"@counterInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"queueHistory": "محفوظات قائمة الانتظار",
+	"@queueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorHistory": "سجل الزوار",
+	"@visitorHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceInfo": "معلومات الخدمة",
+	"@serviceInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"personalInfo": "معلومات شخصية",
+	"@personalInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hello": "مرحبا",
+	"@hello": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setting": "ضبط",
+	"@setting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"permission": "الإذن",
+	"@permission": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"peopleWait": "الناس في الانتظار",
+	"@peopleWait": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenNumber": "رقم الرمز",
+	"@tokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"proceedTo": "الشروع في",
+	"@proceedTo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counter": "عداد",
+	"@counter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waiting": "انتظار",
+	"@waiting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createdDate": "خلقت",
+	"@createdDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"statusQueue": "الحالة",
+	"@statusQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentToken": "الرمز الحالي",
+	"@currentToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueue": "قائمة الانتظار الخاصة بي",
+	"@myQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"more": "أكثر من",
+	"@more": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueueToday": "قائمة الانتظار الخاصة بي اليوم",
+	"@myQueueToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWebSite": "افتح موقع ويب",
+	"@openWebSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribe": "الاشتراك",
+	"@subscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unsubscribe": "إلغاء الاشتراك",
+	"@unsubscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"vibration": "اهتزاز",
+	"@vibration": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"name": "اسم",
+	"@name": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"runningOn": "يعمل على",
+	"@runningOn": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionName": "اسم الإصدار",
+	"@versionName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionCode": "كود الإصدار",
+	"@versionCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appId": "معرف التطبيق",
+	"@appId": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"localTime": "الوقت المحلي",
+	"@localTime": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timezone": "وحدة زمنية",
+	"@timezone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myPhoneNumber": "رقم هاتفي",
+	"@myPhoneNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myEmail": "بريدي الالكتروني",
+	"@myEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"switchAccount": "تبديل الحساب",
+	"@switchAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"account": "الحساب",
+	"@account": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"purchaseHistory": "تاريخ شراء",
+	"@purchaseHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribeNow": "إشترك الآن",
+	"@subscribeNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"haveAnAccount": "هل لديك حساب؟ تسجيل الدخول",
+	"@haveAnAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signout": "خروج",
+	"@signout": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signin": "تسجيل الدخول",
+	"@signin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"forgotPassword": "هل نسيت كلمة المرور",
+	"@forgotPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"phone": "هاتف",
+	"@phone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"loginMessage": "سنرسل رسالة SMS للتحقق من هويتك ، يرجى إدخال رقمك أدناه!",
+	"@loginMessage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verificationCode": "شيفرة التأكيد",
+	"@verificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pinNotArrive": "إذا لم يصل رمزك خلال دقيقة واحدة ، فالمس",
+	"@pinNotArrive": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"here": "هنا",
+	"@here": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantExit": "هل تريد الخروج",
+	"@wantExit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ok": "حسنا",
+	"@ok": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancel": "إلغاء",
+	"@cancel": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ago": "منذ",
+	"@ago": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wrongVerifyCode": "لم نتمكن من التحقق من الرمز الخاص بك ، يرجى المحاولة مرة أخرى!",
+	"@wrongVerifyCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotCreateProfile": "تعذر إنشاء ملف التعريف الخاص بك في الوقت الحالي ، يرجى المحاولة مرة أخرى في وقت لاحق",
+	"@cannotCreateProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotRetry": "لا يمكنك إعادة المحاولة بعد!",
+	"@cannotRetry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPhoneEmpty": "لا يمكن أن يكون رقم هاتفك فارغًا!",
+	"@cannotPhoneEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidPhone": "رقم الهاتف هذا غير صالح!",
+	"@invalidPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotVerificationCodeEmpty": "لا يمكن أن يكون رمز التحقق فارغًا!",
+	"@cannotVerificationCodeEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidVerificationCode": "رمز التحقق هذا غير صالح!",
+	"@invalidVerificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectLanguage": "اختار اللغة",
+	"@selectLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"language": "لغة",
+	"@language": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openDisplayUnit": "افتح وحدة العرض",
+	"@openDisplayUnit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showQueueHistory": "إظهار محفوظات قائمة الانتظار",
+	"@showQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueToken": "رمز الإصدار",
+	"@issueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"home": "الصفحة الرئيسية",
+	"@home": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waitedForComplete": "انتظر اكتمال",
+	"@waitedForComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotIssueTokenHoliday": "لا يمكنك إصدار الرمز المميز أثناء العطلة. اليوم هو",
+	"@cannotIssueTokenHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"mustIssueTokenOfficeHours": "يجب عليك إصدار الرمز المميز خلال ساعات العمل",
+	"@mustIssueTokenOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notMeetTimeInterval": "لا يلبي الفاصل الزمني لإنشاء الرمز المميز التالي.",
+	"@notMeetTimeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenList": "قائمة الرموز",
+	"@tokenList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"nextToken": "الرمز التالي",
+	"@nextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectDepartment": "حدد القسم",
+	"@selectDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCounter": "حدد عداد",
+	"@selectCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recall": "اعد الاتصال",
+	"@recall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentStore": "المتجر الحالي",
+	"@currentStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeList": "قائمة المتجر",
+	"@storeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouWantRecall": "هل تريد التذكر؟",
+	"@doYouWantRecall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"deparment": "الانقسام",
+	"@deparment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightCompare": "مقارنة البصيرة",
+	"@insightCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightLast7days": "البصيرة آخر 7 أيام",
+	"@insightLast7days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightToday": "البصيرة اليوم",
+	"@insightToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHours": "ساعات العمل",
+	"@officeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"publicHolidays": "إجازات رسمية",
+	"@publicHolidays": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeForm": "نموذج المتجر",
+	"@storeForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportCompare": "مقارنة التقرير",
+	"@reportCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yesterday": "في الامس",
+	"@yesterday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"today": "اليوم",
+	"@today": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"totalTokenCount": "إجمالي عدد الرموز",
+	"@totalTokenCount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"report7daysAgo": "تقرير 7 أيام مضت",
+	"@report7daysAgo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportPercentageToday": "نسبة التقرير اليوم",
+	"@reportPercentageToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterList": "قائمة العداد",
+	"@counterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createCounter": "إنشاء عداد",
+	"@createCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentList": "قائمة الأقسام",
+	"@departmentList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentForm": "نموذج القسم",
+	"@departmentForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createDepartment": "إنشاء قسم",
+	"@createDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"letter": "رسالة",
+	"@letter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"start": "بداية",
+	"@start": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueToken": "الفاصل الزمني لإصدار رمز مميز",
+	"@timeIntervalToIssueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueTokenText": "الوقت الفاصل هو لمنع المستخدم من تكرار مشكلة الرمز المميز. هذا هو الإعداد في وحدة minitue.",
+	"@timeIntervalToIssueTokenText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeInterval": "الفاصل الزمني",
+	"@timeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalHint": "مثال: دقيقتان",
+	"@timeIntervalHint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"save": "حفظ",
+	"@save": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayList": "قائمة العطلات",
+	"@holidayList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayDate": "تاريخ العطلة",
+	"@holidayDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whatIsHolidayName": "ما هو اسم العيد؟",
+	"@whatIsHolidayName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pleaseEnterSomeText": "الرجاء إدخال نص",
+	"@pleaseEnterSomeText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createHoliday": "إنشاء عطلة",
+	"@createHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayForm": "نموذج عطلة",
+	"@holidayForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableHolidayText": "لتمكين العطلة ، يجب أن يكون المفتاح في وضع التشغيل.",
+	"@enableHolidayText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursList": "قائمة ساعات العمل",
+	"@officeHoursList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createOfficeHours": "إنشاء ساعات العمل",
+	"@createOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableThisStore": "تمكين هذا المخزن",
+	"@enableThisStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"edit": "تصحيح",
+	"@edit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"submit": "خضع",
+	"@submit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"register": "تسجيل",
+	"@register": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterForm": "نموذج مضاد",
+	"@counterForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantResetTokenNumber": "هل تريد إعادة تعيين رقم الرمز لبدء الرقم؟",
+	"@wantResetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"resetTokenNumber": "إعادة تعيين رقم الرمز",
+	"@resetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yes": "نعم",
+	"@yes": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"no": "لا",
+	"@no": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouAccept": "هل تقبل؟",
+	"@doYouAccept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callToken": "اتصل برمز",
+	"@callToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"toStartNumber": "لبدء رقم",
+	"@toStartNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursForm": "نموذج ساعات العمل",
+	"@officeHoursForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOfficeHours": "لتمكين إصدار الرمز المميز على تطبيق العميل ، يجب أن يكون المفتاح في وضع التشغيل.",
+	"@enableOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"monday": "الإثنين",
+	"@monday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tuesday": "الثلاثاء",
+	"@tuesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wednesday": "الأربعاء",
+	"@wednesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"thursday": "الخميس",
+	"@thursday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"friday": "يوم الجمعة",
+	"@friday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"saturday": "يوم السبت",
+	"@saturday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sunday": "الأحد",
+	"@sunday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"admin": "مشرف",
+	"@admin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"adminLogin": "دخول المشرف",
+	"@adminLogin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"captured": "تم الالتقاط",
+	"@captured": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"meter": "متر",
+	"@meter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"kilometer": "كيلومتر",
+	"@kilometer": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"away": "بعيدا",
+	"@away": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"distance": "مسافه: بعد",
+	"@distance": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"userProfile": "ملف تعريفي للمستخدم",
+	"@userProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorProfile": "ملف الزوار",
+	"@visitorProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appInfo": "معلومات التطبيق",
+	"@appInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"online": "عبر الانترنت",
+	"@online": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"offline": "غير متصل على الانترنت",
+	"@offline": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noMoreNextToken": "لا مزيد من الرمز التالي",
+	"@noMoreNextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueTokenAdminText": "يجب على المستخدم الذي لديه هذا البريد الإلكتروني تسجيل الدخول باستخدام تطبيق العميل للتحقق من أحدث رقم مميز للرمز.",
+	"@issueTokenAdminText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"remove": "إزالة",
+	"@remove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantRemove": "هل تريد إزالته؟",
+	"@wantRemove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"store": "متجر",
+	"@store": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"availableStore": "متجر متاح",
+	"@availableStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"address": "عنوان",
+	"@address": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dialPhone": "إتصال تليفونى",
+	"@dialPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dial": "يتصل",
+	"@dial": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sendEmail": "ارسل بريد الكتروني",
+	"@sendEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"email": "البريد الإلكتروني",
+	"@email": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"code": "الشفرة",
+	"@code": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"password": "كلمه السر",
+	"@password": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"coordinates": "إحداثيات",
+	"@coordinates": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showWaitingQueueHistory": "إظهار سجل انتظار الانتظار",
+	"@showWaitingQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantConfirm": "تؤكد؟",
+	"@wantConfirm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeSetting": "إعداد المتجر",
+	"@storeSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insight": "تبصر",
+	"@insight": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"otherSetting": "إعدادات أخرى",
+	"@otherSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"options": "خيارات",
+	"@options": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callNow": "اتصل الان",
+	"@callNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBluetoothPrinter": "قم بإعداد طابعة Bluetooth",
+	"@setupBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectBluetoothPrinter": "حدد طابعة Bluetooth",
+	"@selectBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"discoverBluetooth": "اكتشف البلوتوث",
+	"@discoverBluetooth": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connect": "الاتصال",
+	"@connect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"disconnect": "قطع الاتصال",
+	"@disconnect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrinting": "اختبار الطباعة",
+	"@testPrinting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connection": "صلة",
+	"@connection": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPrint": "لا يمكن الطباعة",
+	"@cannotPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"close": "قريب",
+	"@close": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectPhoto": "اختر الصور",
+	"@selectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"onlyAcceptImageFormatNote": "قبول تنسيق الصورة فقط",
+	"@onlyAcceptImageFormatNote": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectAndUploadPhoto": "حدد وتحميل الصورة",
+	"@selectAndUploadPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shouldSelectPhoto": "يجب اختيار صورة",
+	"@shouldSelectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowWizard": "معالج النوافذ",
+	"@windowWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceWizard": "معالج الخدمة",
+	"@serviceWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"next": "التالى",
+	"@next": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"accept": "قبول",
+	"@accept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupEmployees": "إعداد الموظفين",
+	"@setupEmployees": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editEmployee": "تحرير الموظف",
+	"@editEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeInfo": "معلومات الموظف",
+	"@employeeInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeList": "قائمة موظف",
+	"@employeeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employee": "موظف",
+	"@employee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeProfile": "ملف تعريف الموظف",
+	"@employeeProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupLanguage": "لغة الإعداد",
+	"@setupLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheStall": "قم بإعداد المماطلة",
+	"@setupTheStall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupPrinter": "إعداد الطابعة",
+	"@setupPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorList": "قائمة الزوار",
+	"@visitorList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"boardSetting": "إعداد المجلس",
+	"@boardSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pairCode": "كود الزوج",
+	"@pairCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"window": "نافذة او شباك",
+	"@window": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceList": "قائمة الخدمات",
+	"@serviceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceForm": "نموذج الخدمة",
+	"@serviceForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceName": "اسم الخدمة",
+	"@serviceName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceLetter": "خطاب الخدمة",
+	"@serviceLetter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"startNumber": "رقم البداية",
+	"@startNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupWindow": "نافذة الإعداد",
+	"@setupWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowForm": "نموذج النافذة",
+	"@windowForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowName": "اسم النافذة",
+	"@windowName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableWindow": "تمكين النافذة",
+	"@enableWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editWindow": "تحرير النافذة",
+	"@editWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openServiceList": "افتح قائمة الخدمات",
+	"@openServiceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveUp": "تحرك",
+	"@moveUp": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveDown": "تحرك لأسفل",
+	"@moveDown": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editService": "تحرير الخدمة",
+	"@editService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitUsAt": "زورونا على",
+	"@visitUsAt": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appName": "اسم التطبيق",
+	"@appName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"packageName": "اسم الحزمة",
+	"@packageName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"buildNumber": "اكمل العدد",
+	"@buildNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionNumber": "رقم الإصدار",
+	"@versionNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"termsOfUse": "تعليمات الاستخدام",
+	"@termsOfUse": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacy": "الإجمالية",
+	"@privacy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacyPolicy": "سياسة خاصة",
+	"@privacyPolicy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"device": "جهاز",
+	"@device": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrint": "اختبار الطباعة",
+	"@testPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"printToken": "طباعة الرمز المميز",
+	"@printToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenDetail": "تفاصيل الرمز المميز",
+	"@tokenDetail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAsCompleted": "بمناسبة اكتمال",
+	"@markAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAllAsCompleted": "اجعل الكل مكتمل",
+	"@markAllAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markComplete": "وضع علامة مكتمل",
+	"@markComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recallToken": "أذكر الرمز",
+	"@recallToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"transferToken": "نقل الرمز",
+	"@transferToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"homePage": "الصفحة الرئيسية",
+	"@homePage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dashboard": "لوحة القيادة",
+	"@dashboard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editCounter": "تحرير العداد",
+	"@editCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openEditCounter": "افتح \"تحرير العداد\"",
+	"@openEditCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCounterList": "افتح قائمة العداد",
+	"@openCounterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupFunctionality": "وظيفة الإعداد",
+	"@setupFunctionality": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iWillBeTheEmployee": "سأكون الموظف",
+	"@iWillBeTheEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupCounter": "عداد الإعداد",
+	"@setupCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"completed": "منجز",
+	"@completed": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBizInfo": "إعداد معلومات الأعمال",
+	"@setupBizInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupOpeningHours": "إعداد ساعات العمل",
+	"@setupOpeningHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupMaxTokenNumber": "قم بإعداد الحد الأقصى لرقم الرمز المميز",
+	"@setupMaxTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOrDisable": "تفعيل أو تعطيل",
+	"@enableOrDisable": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openingHours": "ساعات العمل",
+	"@openingHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"backgroundColor": "لون الخلفية",
+	"@backgroundColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"textColor": "لون الخط",
+	"@textColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"numberOfTokenBox": "عدد الصناديق المميزة",
+	"@numberOfTokenBox": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenBoxNumber": "رقم صندوق الرمز",
+	"@tokenBoxNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fontScale": "مقياس الخط",
+	"@fontScale": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pageSize": "مقاس الصفحه",
+	"@pageSize": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancelToken": "إلغاء الرمز",
+	"@cancelToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportIssue": "قضية تقرير",
+	"@reportIssue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shareTokenInfo": "مشاركة معلومات الرمز المميز",
+	"@shareTokenInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBoardScreen": "افتح شاشة اللوحة",
+	"@openBoardScreen": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBizProfile": "افتح ملف تعريف Biz",
+	"@openBizProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCanceled": "تم إلغاء الرمز المميز",
+	"@tokenCanceled": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addVideo": "أضف فيديو",
+	"@addVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeVideo": "إزالة الفيديو",
+	"@removeVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCreated": "تم إنشاء الرمز المميز",
+	"@tokenCreated": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addWindow": "إضافة نافذة",
+	"@addWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addService": "إضافة الخدمة",
+	"@addService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addCounter": "إضافة عداد",
+	"@addCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addEmployee": "إضافة موظف",
+	"@addEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPrinter": "إضافة طابعة",
+	"@addPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hours": "ساعات",
+	"@hours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCompany": "اختر الشركة",
+	"@selectCompany": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenInformation": "معلومات الرمز",
+	"@tokenInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWaze": "افتح Waze",
+	"@openWaze": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectYourCountry": "اختر بلدك",
+	"@selectYourCountry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branch": "فرع شجرة",
+	"@branch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editBranch": "تحرير الفرع",
+	"@editBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branchInfo": "معلومات الفرع",
+	"@branchInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentBranch": "الفرع الحالي",
+	"@currentBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"smsHistory": "محفوظات الرسائل القصيرة",
+	"@smsHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branches": "الفروع",
+	"@branches": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addBranch": "إضافة فرع",
+	"@addBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addMessage": "اضافة رسالة",
+	"deleteMessage": "حذف رسالة",
+	"messageInfo": "معلومات الرسالة",
+	"messageList": "قائمة الرسائل",
+	"pushMessage": "رسالة دفع",
+	"appearance": "مظهر خارجي",
+	"qrcode": "رمز الاستجابة السريعة",
+	"scan": "مسح"
+}

@@ -1,6 +1,5 @@
 import 'package:ameencommon/models/post_data.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:intl/intl.dart';
 
 class UserModel {
   String uid;
@@ -9,9 +8,12 @@ class UserModel {
   String password;
   String profilePicture;
   String lastTimeUserLogin;
+  String fbAccountId;
+  String fbEmail;
+  String fbName;
   bool isActive;
   bool isAdministrator = false;
-  DateTime joinedDate;
+  Timestamp joinedDate;
   List<PostData> userPosts;
   List<PostData> savedPosts;
   List<Followers> followers;
@@ -29,20 +31,28 @@ class UserModel {
     this.isActive,
     this.password,
     this.joinedDate,
+    this.fbAccountId,
+    this.fbEmail,
+    this.fbName,
   });
 
-  String get postTimeFormatted =>
-      DateFormat.yMMMd('ar').add_jm().format(joinedDate);
 
   factory UserModel.fromJson(Map<String, dynamic> item) {
     return UserModel(
       uid: item['_id'],
       username: item['username'],
       userEmail: item['email'],
-      followers:(item['followers'] as List).map((i) => Followers.fromJson(i)).toList(),
-      following:(item['following'] as List).map((i) => Following.fromJson(i)).toList(),
-      userPosts:(item['posts'] as List).map((i) => PostData.fromJson(i)).toList(),
-      savedPosts:(item['saved_posts'] as List).map((i) => PostData.fromJson(i)).toList(),
+      followers: (item['followers'] as List)
+          .map((i) => Followers.fromJson(i))
+          .toList(),
+      following: (item['following'] as List)
+          .map((i) => Following.fromJson(i))
+          .toList(),
+      userPosts:
+          (item['posts'] as List).map((i) => PostData.fromJson(i)).toList(),
+      savedPosts: (item['saved_posts'] as List)
+          .map((i) => PostData.fromJson(i))
+          .toList(),
     );
   }
 
@@ -58,26 +68,33 @@ class UserModel {
 
   factory UserModel.fromDocument(DocumentSnapshot doc) {
     return UserModel(
-      uid: doc['id'],
-      userEmail: doc['email'],
-      username: doc['username'],
-    );
+        uid: doc['id'],
+        userEmail: doc['email'],
+        username: doc['username'],
+        profilePicture: doc['profilePicture'],
+        isActive: doc['isActive'],
+        joinedDate: doc['joined_date'],
+        userPosts: doc['posts'],
+        savedPosts: doc['savedPosts'],
+        followers: doc['followers'],
+        following: doc['following']);
   }
 
-    UserModel.fromMap(Map<dynamic, dynamic> item )
-        : uid = item['uid'],
-          username = item ['username'],
-          userEmail = item ['email'],
-          profilePicture = item ['profilePicture'],
-          lastTimeUserLogin = item ['lastTimeUserLogin'],
-          isActive = item ['isActive'],
-          joinedDate = item ['joined_date'],
-          userPosts = item ['posts'],
-          savedPosts = item ['savedPosts'],
-          followers = item ['followers'],
-          following = item ['following'];
+  UserModel.fromMap(Map<dynamic, dynamic> item)
+      : uid = item['uid'],
+        username = item['username'],
+        userEmail = item['email'],
+        profilePicture = item['profilePicture'],
+        lastTimeUserLogin = item['lastTimeUserLogin'],
+        isActive = item['isActive'],
+//          joinedDate = item ['joined_date'],
+        userPosts = item['posts'],
+        savedPosts = item['savedPosts'],
+        followers = item['followers'],
+        following = item['following'];
 
-    UserModel.fromDocSnapshot(DocumentSnapshot snapshot) : this.fromMap(snapshot.data);
+  UserModel.fromDocSnapshot(DocumentSnapshot snapshot)
+      : this.fromMap(snapshot.data);
 }
 
 class Followers {
@@ -89,8 +106,8 @@ class Followers {
 
   factory Followers.fromJson(Map<String, dynamic> item) {
     return Followers(
-        memberId: item['member_id'],
-        followerName: item['follower_name'],
+      memberId: item['member_id'],
+      followerName: item['follower_name'],
     );
   }
 }

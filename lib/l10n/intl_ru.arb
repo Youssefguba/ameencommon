@@ -1,0 +1,1582 @@
+{
+	"@@last_modified": "2020-06-03T06:56:27.341772",
+	"title": "Paperless QMS",
+	"@title": {
+		"description": "Paperless QMS",
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperless": "безбумажный",
+	"@paperless": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperlessQmsPlan": "Безбумажный план СМК",
+	"@paperlessQmsPlan": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectWindow": "Выберите окно",
+	"@selectWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verifyAccount": "Подтвердить учетную запись",
+	"@verifyAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moreInformation": "Дополнительная информация",
+	"@moreInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscription": "Подписка",
+	"@subscription": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"success": "успех",
+	"@success": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"status": "Статус",
+	"@status": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fail": "Провал",
+	"@fail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whoAmI": "Кто я?",
+	"@whoAmI": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectRole": "Выберите роль",
+	"@selectRole": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"service": "ОКАЗАНИЕ УСЛУГ",
+	"@service": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentWindow": "Текущее окно",
+	"@currentWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheBusiness": "Настройте Бизнес",
+	"@setupTheBusiness": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenManagement": "Управление токенами",
+	"@tokenManagement": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"webSite": "Веб-сайт",
+	"@webSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"downloadData": "Скачать данные",
+	"@downloadData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackData": "Данные обратной связи",
+	"@feedbackData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast1Days": "Данные обратной связи за последние 1 день",
+	"@feedbackDataLast1Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast3Days": "Данные обратной связи за последние 3 дня",
+	"@feedbackDataLast3Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast7Days": "Данные обратной связи за последние 7 дней",
+	"@feedbackDataLast7Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedback": "Обратная связь",
+	"@feedback": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windows": "Windows",
+	"@windows": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowInfo": "Окно Информация",
+	"@windowInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPhoto": "Добавить фото",
+	"@addPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removePhoto": "Удалить фото",
+	"@removePhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addLogo": "Добавить логотип",
+	"@addLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeLogo": "Удалить логотип",
+	"@removeLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"makeIdle": "Сделать простоя",
+	"@makeIdle": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"readThis": "Прочитайте это",
+	"@readThis": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmEmployee": "Я сотрудник",
+	"@iAmEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmAdmin": "Я АДМИН",
+	"@iAmAdmin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openImageGalerry": "Открыть изображение Galerry",
+	"@openImageGalerry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCamera": "Открытая камера",
+	"@openCamera": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"done": "Готово",
+	"@done": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"message": "Сообщение",
+	"@message": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myToken": "Мой токен",
+	"@myToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addToken": "Добавить токен",
+	"@addToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"create": "Создайте",
+	"@create": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"businessInfo": "Бизнес Инфо",
+	"@businessInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterInfo": "Счетчик Инфо",
+	"@counterInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"queueHistory": "История очереди",
+	"@queueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorHistory": "История посетителей",
+	"@visitorHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceInfo": "Сервисная информация",
+	"@serviceInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"personalInfo": "Личная информация",
+	"@personalInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hello": "Привет",
+	"@hello": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setting": "установка",
+	"@setting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"permission": "разрешение",
+	"@permission": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"peopleWait": "Люди в ожидании",
+	"@peopleWait": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenNumber": "Номер токена",
+	"@tokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"proceedTo": "продолжать",
+	"@proceedTo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counter": "счетчик",
+	"@counter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waiting": "ждущий",
+	"@waiting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createdDate": "созданный",
+	"@createdDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"statusQueue": "Статус",
+	"@statusQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentToken": "Текущий токен",
+	"@currentToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueue": "Моя очередь",
+	"@myQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"more": "Больше",
+	"@more": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueueToday": "Моя очередь сегодня",
+	"@myQueueToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWebSite": "Открыть веб-сайт",
+	"@openWebSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribe": "Подписывайся",
+	"@subscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unsubscribe": "отказаться от подписки",
+	"@unsubscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"share": "Поделиться",
+	"@share": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notification": "уведомление",
+	"@notification": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"vibration": "ВИБРАЦИЯ",
+	"@vibration": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"name": "название",
+	"@name": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"runningOn": "Работает на",
+	"@runningOn": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionName": "Название версии",
+	"@versionName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionCode": "Код версии",
+	"@versionCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appId": "Идентификатор приложения",
+	"@appId": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"localTime": "Местное время",
+	"@localTime": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timezone": "Часовой пояс",
+	"@timezone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myPhoneNumber": "Мой телефонный номер",
+	"@myPhoneNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myEmail": "Моя электронная почта",
+	"@myEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"switchAccount": "Сменить аккаунт",
+	"@switchAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"account": "учетная запись",
+	"@account": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"purchaseHistory": "История покупки",
+	"@purchaseHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribeNow": "ПОДПИШИСЬ СЕЙЧАС",
+	"@subscribeNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"haveAnAccount": "Иметь аккаунт? войти в систему",
+	"@haveAnAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signout": "Выход",
+	"@signout": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signin": "Войти в систему",
+	"@signin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"login": "Авторизоваться",
+	"@login": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createAccount": "Создать учетную запись",
+	"@createAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"forgotPassword": "Забыли пароль",
+	"@forgotPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"phone": "Телефон",
+	"@phone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"loginMessage": "Мы отправим SMS-сообщение, чтобы подтвердить вашу личность, пожалуйста, введите свой номер прямо ниже!",
+	"@loginMessage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verificationCode": "Код подтверждения",
+	"@verificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pinNotArrive": "Если ваш код не приходит через 1 минуту, нажмите",
+	"@pinNotArrive": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"here": "вот",
+	"@here": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantExit": "Вы хотите выйти",
+	"@wantExit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ok": "Хорошо",
+	"@ok": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancel": "отменить",
+	"@cancel": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ago": "тому назад",
+	"@ago": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wrongVerifyCode": "Мы не смогли подтвердить ваш код, пожалуйста, попробуйте еще раз!",
+	"@wrongVerifyCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotCreateProfile": "Мы не можем создать ваш профиль, попробуйте позже",
+	"@cannotCreateProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotRetry": "Вы не можете повторить еще!",
+	"@cannotRetry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPhoneEmpty": "Ваш номер телефона не может быть пустым!",
+	"@cannotPhoneEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidPhone": "Этот номер телефона недействителен!",
+	"@invalidPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotVerificationCodeEmpty": "Ваш код подтверждения не может быть пустым!",
+	"@cannotVerificationCodeEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidVerificationCode": "Этот код подтверждения недействителен!",
+	"@invalidVerificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectLanguage": "Выберите язык",
+	"@selectLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"language": "язык",
+	"@language": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openDisplayUnit": "Открытый дисплей",
+	"@openDisplayUnit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showQueueHistory": "Показать историю очереди",
+	"@showQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueToken": "Выдача токена",
+	"@issueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"home": "Главная",
+	"@home": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waitedForComplete": "Ждал завершения",
+	"@waitedForComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotIssueTokenHoliday": "Вы не можете выдать токен во время отпуска. Сегодня",
+	"@cannotIssueTokenHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"mustIssueTokenOfficeHours": "Вы должны выдать токен в рабочее время",
+	"@mustIssueTokenOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notMeetTimeInterval": "Не соответствует интервалу времени создания следующего токена.",
+	"@notMeetTimeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenList": "Список токенов",
+	"@tokenList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"nextToken": "Следующий токен",
+	"@nextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectDepartment": "Выберите отдел",
+	"@selectDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCounter": "Выберите счетчик",
+	"@selectCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recall": "Отзыв",
+	"@recall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentStore": "ТЕКУЩИЙ МАГАЗИН",
+	"@currentStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeList": "Список магазинов",
+	"@storeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouWantRecall": "Вы хотите вспомнить?",
+	"@doYouWantRecall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"deparment": "Deparment",
+	"@deparment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightCompare": "Insight Сравнить",
+	"@insightCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightLast7days": "Понимание последних 7 дней",
+	"@insightLast7days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightToday": "Insight Today",
+	"@insightToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHours": "Рабочие часы",
+	"@officeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"publicHolidays": "Праздничные дни",
+	"@publicHolidays": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeForm": "Форма магазина",
+	"@storeForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportCompare": "Сравнение отчетов",
+	"@reportCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yesterday": "Вчера",
+	"@yesterday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"today": "сегодня",
+	"@today": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"totalTokenCount": "Общее количество токенов",
+	"@totalTokenCount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"report7daysAgo": "Отчет 7 дней назад",
+	"@report7daysAgo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportPercentageToday": "Процент отчета сегодня",
+	"@reportPercentageToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterList": "Список счетчиков",
+	"@counterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createCounter": "Создать счетчик",
+	"@createCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentList": "Список отделов",
+	"@departmentList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentForm": "Форма отдела",
+	"@departmentForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createDepartment": "Создать отдел",
+	"@createDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"letter": "Письмо",
+	"@letter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"start": "Начните",
+	"@start": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueToken": "Интервал времени для выдачи токена",
+	"@timeIntervalToIssueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueTokenText": "Интервал времени предназначен для предотвращения повторной выдачи токена пользователем. Это настройка в единицах измерения.",
+	"@timeIntervalToIssueTokenText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeInterval": "Временной интервал",
+	"@timeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalHint": "Пример: 2 минуты",
+	"@timeIntervalHint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"save": "Сохранить",
+	"@save": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayList": "Список праздников",
+	"@holidayList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayDate": "Дата праздника",
+	"@holidayDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whatIsHolidayName": "Что такое название праздника?",
+	"@whatIsHolidayName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pleaseEnterSomeText": "Пожалуйста, введите текст",
+	"@pleaseEnterSomeText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createHoliday": "Создать праздник",
+	"@createHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayForm": "Форма отдыха",
+	"@holidayForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableHolidayText": "Чтобы включить Holiday, переключатель ДОЛЖЕН быть включен.",
+	"@enableHolidayText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursList": "Список офисных часов",
+	"@officeHoursList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createOfficeHours": "Создать офисные часы",
+	"@createOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableThisStore": "Включить этот магазин",
+	"@enableThisStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"edit": "редактировать",
+	"@edit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"submit": "Отправить",
+	"@submit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"register": "регистр",
+	"@register": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterForm": "Встречная форма",
+	"@counterForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantResetTokenNumber": "Вы хотите сбросить номер токена на начальный номер?",
+	"@wantResetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"resetTokenNumber": "Сбросить номер токена",
+	"@resetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yes": "да",
+	"@yes": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"no": "нет",
+	"@no": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouAccept": "Вы принимаете?",
+	"@doYouAccept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callToken": "Токен вызова",
+	"@callToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"toStartNumber": "на стартовый номер",
+	"@toStartNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursForm": "Форма для работы в офисе",
+	"@officeHoursForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOfficeHours": "Чтобы разрешить выдачу токена на клиентском приложении, коммутатор ДОЛЖЕН быть включен.",
+	"@enableOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"monday": "понедельник",
+	"@monday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tuesday": "вторник",
+	"@tuesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wednesday": "среда",
+	"@wednesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"thursday": "четверг",
+	"@thursday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"friday": "пятница",
+	"@friday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"saturday": "суббота",
+	"@saturday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sunday": "воскресенье",
+	"@sunday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"admin": "администратор",
+	"@admin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"adminLogin": "Логин администратора",
+	"@adminLogin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"captured": "захваченный",
+	"@captured": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"meter": "метр",
+	"@meter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"kilometer": "километр",
+	"@kilometer": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"away": "Далеко",
+	"@away": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"distance": "расстояние",
+	"@distance": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"userProfile": "Профиль пользователя",
+	"@userProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorProfile": "Профиль посетителя",
+	"@visitorProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appInfo": "Информация о приложении",
+	"@appInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"online": "онлайн",
+	"@online": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"offline": "Не в сети",
+	"@offline": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noMoreNextToken": "Следующего токена больше нет",
+	"@noMoreNextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueTokenAdminText": "Пользователь с этим адресом электронной почты должен войти в систему с клиентским приложением, чтобы проверить в реальном времени последний номер токена.",
+	"@issueTokenAdminText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"remove": "Удалить",
+	"@remove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantRemove": "Вы хотите удалить?",
+	"@wantRemove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"store": "хранить",
+	"@store": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"availableStore": "Доступный магазин",
+	"@availableStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"address": "Адрес",
+	"@address": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dialPhone": "Набрать телефон",
+	"@dialPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dial": "Набирать номер",
+	"@dial": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sendEmail": "Отправить сообщение",
+	"@sendEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"email": "Эл. адрес",
+	"@email": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"code": "код",
+	"@code": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"password": "пароль",
+	"@password": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"coordinates": "Координаты",
+	"@coordinates": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showWaitingQueueHistory": "Показать историю ожидания",
+	"@showWaitingQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantConfirm": "Подтвердить?",
+	"@wantConfirm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeSetting": "Настройка магазина",
+	"@storeSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insight": "На виду",
+	"@insight": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"otherSetting": "Другие настройки",
+	"@otherSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"options": "опции",
+	"@options": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callNow": "Позвони сейчас",
+	"@callNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBluetoothPrinter": "Настройка Bluetooth-принтера",
+	"@setupBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectBluetoothPrinter": "Выберите принтер Bluetooth",
+	"@selectBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"discoverBluetooth": "Откройте для себя Bluetooth",
+	"@discoverBluetooth": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connect": "соединять",
+	"@connect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"disconnect": "Отключить",
+	"@disconnect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrinting": "Тестовая печать",
+	"@testPrinting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connection": "соединение",
+	"@connection": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPrint": "Не может распечатать",
+	"@cannotPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"close": "близко",
+	"@close": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectPhoto": "Выберите фото",
+	"@selectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"onlyAcceptImageFormatNote": "Принять только формат изображения",
+	"@onlyAcceptImageFormatNote": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectAndUploadPhoto": "Выбрать и загрузить фото",
+	"@selectAndUploadPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shouldSelectPhoto": "Следует выбрать фотографию",
+	"@shouldSelectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowWizard": "Мастер окон",
+	"@windowWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceWizard": "Мастер обслуживания",
+	"@serviceWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"next": "следующий",
+	"@next": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"accept": "принимать",
+	"@accept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupEmployees": "Настройка сотрудников",
+	"@setupEmployees": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editEmployee": "Изменить сотрудника",
+	"@editEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeInfo": "Информация о сотруднике",
+	"@employeeInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeList": "Список Сотрудников",
+	"@employeeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employee": "Работник",
+	"@employee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeProfile": "Профиль сотрудника",
+	"@employeeProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupLanguage": "Язык установки",
+	"@setupLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheStall": "Настройте стойло",
+	"@setupTheStall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupPrinter": "Настройка принтера",
+	"@setupPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorList": "Список посетителей",
+	"@visitorList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"boardSetting": "Настройка платы",
+	"@boardSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pairCode": "Код пары",
+	"@pairCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"window": "Окно",
+	"@window": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceList": "Перечень услуг",
+	"@serviceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceForm": "Форма обслуживания",
+	"@serviceForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceName": "наименование услуги",
+	"@serviceName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceLetter": "Сервисное письмо",
+	"@serviceLetter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"startNumber": "Стартовый номер",
+	"@startNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupWindow": "Окно настройки",
+	"@setupWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowForm": "Форма окна",
+	"@windowForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowName": "Имя окна",
+	"@windowName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableWindow": "Включить окно",
+	"@enableWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editWindow": "Окно редактирования",
+	"@editWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openServiceList": "Открыть список услуг",
+	"@openServiceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveUp": "Двигаться вверх",
+	"@moveUp": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveDown": "Двигаться вниз",
+	"@moveDown": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editService": "Редактировать Сервис",
+	"@editService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitUsAt": "Посетите нас на",
+	"@visitUsAt": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appName": "Имя приложения",
+	"@appName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"packageName": "Имя пакета",
+	"@packageName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"buildNumber": "Номер сборки",
+	"@buildNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionNumber": "Номер версии",
+	"@versionNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"termsOfUse": "Условия эксплуатации",
+	"@termsOfUse": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacy": "Конфиденциальность",
+	"@privacy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacyPolicy": "Политика конфиденциальности",
+	"@privacyPolicy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"device": "Устройство",
+	"@device": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrint": "Пробная печать",
+	"@testPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"printToken": "Печать токена",
+	"@printToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenDetail": "Деталь токена",
+	"@tokenDetail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAsCompleted": "отметить как выполненное",
+	"@markAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAllAsCompleted": "Отметить все как выполненное",
+	"@markAllAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markComplete": "Отметка завершена",
+	"@markComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recallToken": "Токен отзыва",
+	"@recallToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"transferToken": "Токен передачи",
+	"@transferToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"homePage": "домашняя страница",
+	"@homePage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dashboard": "Приборная доска",
+	"@dashboard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editCounter": "Изменить счетчик",
+	"@editCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openEditCounter": "Открыть счетчик редактирования",
+	"@openEditCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCounterList": "Список открытых счетчиков",
+	"@openCounterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupFunctionality": "Функциональность настройки",
+	"@setupFunctionality": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iWillBeTheEmployee": "Я буду сотрудником",
+	"@iWillBeTheEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupCounter": "Счетчик настроек",
+	"@setupCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"completed": "Завершенный",
+	"@completed": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBizInfo": "Настройка бизнес-информации",
+	"@setupBizInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupOpeningHours": "Настройка часов работы",
+	"@setupOpeningHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupMaxTokenNumber": "Максимальное количество токенов настройки",
+	"@setupMaxTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOrDisable": "Включить или отключить",
+	"@enableOrDisable": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openingHours": "Часы работы",
+	"@openingHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"backgroundColor": "Фоновый цвет",
+	"@backgroundColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"textColor": "Цвет текста",
+	"@textColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"numberOfTokenBox": "Количество токенов",
+	"@numberOfTokenBox": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenBoxNumber": "Номер токен-бокса",
+	"@tokenBoxNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fontScale": "Масштаб шрифта",
+	"@fontScale": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pageSize": "Размер страницы",
+	"@pageSize": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancelToken": "Отмена токена",
+	"@cancelToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportIssue": "Сообщить о проблеме",
+	"@reportIssue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shareTokenInfo": "Поделиться информацией о токене",
+	"@shareTokenInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBoardScreen": "Открытая доска экрана",
+	"@openBoardScreen": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBizProfile": "Open Biz Profile",
+	"@openBizProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCanceled": "Токен отменен",
+	"@tokenCanceled": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addVideo": "Добавить видео",
+	"@addVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeVideo": "Удалить видео",
+	"@removeVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCreated": "Токен создан",
+	"@tokenCreated": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addWindow": "Добавить окно",
+	"@addWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addService": "Добавить сервис",
+	"@addService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addCounter": "Добавить счетчик",
+	"@addCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addEmployee": "Добавить сотрудника",
+	"@addEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPrinter": "Добавить принтер",
+	"@addPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hours": "часов",
+	"@hours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCompany": "Выберите компанию",
+	"@selectCompany": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenInformation": "Информация о токене",
+	"@tokenInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWaze": "Open Waze",
+	"@openWaze": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectYourCountry": "Выберите вашу страну",
+	"@selectYourCountry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branch": "Ветка",
+	"@branch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editBranch": "Редактировать ветку",
+	"@editBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branchInfo": "Информация о филиале",
+	"@branchInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentBranch": "Текущая ветвь",
+	"@currentBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"smsHistory": "История СМС",
+	"@smsHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branches": "ветви",
+	"@branches": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addBranch": "Добавить ветку",
+	"@addBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addMessage": "Добавить сообщение",
+	"deleteMessage": "Удалить сообщение",
+	"messageInfo": "Информация о сообщении",
+	"messageList": "Список сообщений",
+	"pushMessage": "Push-сообщение",
+	"appearance": "Внешность",
+	"qrcode": "QR код",
+	"scan": "Сканирование"
+}

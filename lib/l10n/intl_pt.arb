@@ -1,0 +1,1582 @@
+{
+	"@@last_modified": "2020-06-03T06:56:27.341772",
+	"title": "Paperless QMS",
+	"@title": {
+		"description": "Paperless QMS",
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperless": "Sem papel",
+	"@paperless": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperlessQmsPlan": "Plano QMS sem papel",
+	"@paperlessQmsPlan": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectWindow": "Janela Selecionar",
+	"@selectWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verifyAccount": "Verificar conta",
+	"@verifyAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moreInformation": "Mais informações",
+	"@moreInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscription": "inscrição",
+	"@subscription": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"success": "Sucesso",
+	"@success": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"status": "Status",
+	"@status": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fail": "Falhou",
+	"@fail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whoAmI": "Quem sou eu?",
+	"@whoAmI": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectRole": "Selecione o papel",
+	"@selectRole": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"service": "Serviço",
+	"@service": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentWindow": "Janela Atual",
+	"@currentWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheBusiness": "Configurar o negócio",
+	"@setupTheBusiness": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenManagement": "Gerenciamento de token",
+	"@tokenManagement": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"webSite": "Local na rede Internet",
+	"@webSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"downloadData": "Baixar dados",
+	"@downloadData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackData": "Dados de Feedback",
+	"@feedbackData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast1Days": "Dados de Feedback Últimos 1 Dias",
+	"@feedbackDataLast1Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast3Days": "Dados de Feedback Últimos 3 Dias",
+	"@feedbackDataLast3Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast7Days": "Dados de Feedback Últimos 7 Dias",
+	"@feedbackDataLast7Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedback": "Comentários",
+	"@feedback": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windows": "janelas",
+	"@windows": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowInfo": "Informações da janela",
+	"@windowInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPhoto": "Adicionar foto",
+	"@addPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removePhoto": "Remover foto",
+	"@removePhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addLogo": "Adicionar logotipo",
+	"@addLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeLogo": "Remover logotipo",
+	"@removeLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"makeIdle": "Tornar ocioso",
+	"@makeIdle": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"readThis": "Leia isso",
+	"@readThis": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmEmployee": "Eu sou empregado",
+	"@iAmEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmAdmin": "Eu sou ADMIN",
+	"@iAmAdmin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openImageGalerry": "Abrir imagem Galerry",
+	"@openImageGalerry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCamera": "Câmera Aberta",
+	"@openCamera": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"done": "Feito",
+	"@done": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"message": "mensagem",
+	"@message": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myToken": "My Token",
+	"@myToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addToken": "Adicionar token",
+	"@addToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"create": "Crio",
+	"@create": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"businessInfo": "Informações da Empresa",
+	"@businessInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterInfo": "Informações do contador",
+	"@counterInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"queueHistory": "Histórico da fila",
+	"@queueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorHistory": "História do visitante",
+	"@visitorHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceInfo": "Informações de serviço",
+	"@serviceInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"personalInfo": "Informação pessoal",
+	"@personalInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hello": "Olá",
+	"@hello": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setting": "Configuração",
+	"@setting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"permission": "Permissão",
+	"@permission": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"peopleWait": "Pessoas em espera",
+	"@peopleWait": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenNumber": "Número do token",
+	"@tokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"proceedTo": "Prossiga para",
+	"@proceedTo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counter": "Contador",
+	"@counter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waiting": "Esperando",
+	"@waiting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createdDate": "Criado",
+	"@createdDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"statusQueue": "Status",
+	"@statusQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentToken": "Token atual",
+	"@currentToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueue": "Minha fila",
+	"@myQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"more": "mais",
+	"@more": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueueToday": "Minha fila hoje",
+	"@myQueueToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWebSite": "Abrir site",
+	"@openWebSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribe": "Se inscrever",
+	"@subscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unsubscribe": "Cancelar subscrição",
+	"@unsubscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"share": "Compartilhar",
+	"@share": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notification": "Notificação",
+	"@notification": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"vibration": "Vibração",
+	"@vibration": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"name": "Nome",
+	"@name": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"runningOn": "Running On",
+	"@runningOn": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionName": "Nome da versão",
+	"@versionName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionCode": "Código da versão",
+	"@versionCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appId": "ID do aplicativo",
+	"@appId": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"localTime": "Horário local",
+	"@localTime": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timezone": "Fuso horário",
+	"@timezone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myPhoneNumber": "Meu número de telefone",
+	"@myPhoneNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myEmail": "Meu email",
+	"@myEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"switchAccount": "Mudar de conta",
+	"@switchAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"account": "Conta",
+	"@account": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"purchaseHistory": "Histórico de compras",
+	"@purchaseHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribeNow": "Inscreva-se agora",
+	"@subscribeNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"haveAnAccount": "Ter uma conta? assinar em",
+	"@haveAnAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signout": "Sair",
+	"@signout": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signin": "assinar em",
+	"@signin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"login": "Entrar",
+	"@login": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createAccount": "Criar Conta em portugues-Brasil",
+	"@createAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"forgotPassword": "Esqueceu a senha",
+	"@forgotPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"phone": "telefone",
+	"@phone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"loginMessage": "Enviaremos uma mensagem SMS para confirmar sua identidade. Digite seu número logo abaixo!",
+	"@loginMessage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verificationCode": "Código de verificação",
+	"@verificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pinNotArrive": "Se o seu código não chegar em 1 minuto, toque em",
+	"@pinNotArrive": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"here": "Aqui",
+	"@here": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantExit": "Quer sair",
+	"@wantExit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ok": "Está bem",
+	"@ok": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancel": "Cancelar",
+	"@cancel": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ago": "atrás",
+	"@ago": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wrongVerifyCode": "Não foi possível verificar o seu código. Tente novamente!",
+	"@wrongVerifyCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotCreateProfile": "Não foi possível criar seu perfil no momento. Tente novamente mais tarde",
+	"@cannotCreateProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotRetry": "Você não pode tentar novamente ainda!",
+	"@cannotRetry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPhoneEmpty": "O seu número de telefone não pode estar vazio!",
+	"@cannotPhoneEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidPhone": "Este número de telefone é inválido!",
+	"@invalidPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotVerificationCodeEmpty": "O seu código de verificação não pode estar vazio!",
+	"@cannotVerificationCodeEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidVerificationCode": "Este código de verificação é inválido!",
+	"@invalidVerificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectLanguage": "Selecione o idioma",
+	"@selectLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"language": "Língua",
+	"@language": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openDisplayUnit": "Unidade de exibição aberta",
+	"@openDisplayUnit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showQueueHistory": "Mostrar histórico da fila",
+	"@showQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueToken": "Token de Emissão",
+	"@issueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"home": "Casa",
+	"@home": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waitedForComplete": "Aguardado Completo",
+	"@waitedForComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotIssueTokenHoliday": "Você não pode emitir o token durante o feriado. Hoje é",
+	"@cannotIssueTokenHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"mustIssueTokenOfficeHours": "Você deve emitir o token durante o horário comercial",
+	"@mustIssueTokenOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notMeetTimeInterval": "Não atende ao intervalo de tempo para criar o próximo token.",
+	"@notMeetTimeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenList": "Lista de Token",
+	"@tokenList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"nextToken": "Próximo token",
+	"@nextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectDepartment": "Selecione um departamento",
+	"@selectDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCounter": "Selecione um contador",
+	"@selectCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recall": "Recordar",
+	"@recall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentStore": "LOJA ATUAL",
+	"@currentStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeList": "Lista de lojas",
+	"@storeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouWantRecall": "Você quer se lembrar?",
+	"@doYouWantRecall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"deparment": "Departamento",
+	"@deparment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightCompare": "Insight Compare",
+	"@insightCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightLast7days": "Insight nos últimos 7 dias",
+	"@insightLast7days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightToday": "Insight Today",
+	"@insightToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHours": "Horário comercial",
+	"@officeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"publicHolidays": "Feriados públicos",
+	"@publicHolidays": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeForm": "Armazenar formulário",
+	"@storeForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportCompare": "Comparar relatórios",
+	"@reportCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yesterday": "Ontem",
+	"@yesterday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"today": "Hoje",
+	"@today": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"totalTokenCount": "Contagem total de tokens",
+	"@totalTokenCount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"report7daysAgo": "Relatório há 7 dias",
+	"@report7daysAgo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportPercentageToday": "Porcentagem do relatório hoje",
+	"@reportPercentageToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterList": "Lista de contadores",
+	"@counterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createCounter": "Criar contador",
+	"@createCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentList": "Lista de departamentos",
+	"@departmentList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentForm": "Formulário de Departamento",
+	"@departmentForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createDepartment": "Criar departamento",
+	"@createDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"letter": "Carta",
+	"@letter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"start": "Começar",
+	"@start": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueToken": "Intervalo de tempo para emitir o token",
+	"@timeIntervalToIssueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueTokenText": "O intervalo de tempo é para impedir que o usuário repita a emissão do token. Esta é uma configuração na unidade minitue.",
+	"@timeIntervalToIssueTokenText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeInterval": "Intervalo de tempo",
+	"@timeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalHint": "Exemplo: 2 minutos",
+	"@timeIntervalHint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"save": "Salve ",
+	"@save": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayList": "Lista de férias",
+	"@holidayList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayDate": "Data do feriado",
+	"@holidayDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whatIsHolidayName": "Qual é o nome do feriado?",
+	"@whatIsHolidayName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pleaseEnterSomeText": "Digite algum texto",
+	"@pleaseEnterSomeText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createHoliday": "Criar Feriado",
+	"@createHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayForm": "Formulário de férias",
+	"@holidayForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableHolidayText": "Para ativar o feriado, o interruptor DEVE estar LIGADO.",
+	"@enableHolidayText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursList": "Lista de Horário de Funcionamento",
+	"@officeHoursList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createOfficeHours": "Criar horário comercial",
+	"@createOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableThisStore": "Ativar esta loja",
+	"@enableThisStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"edit": "Editar",
+	"@edit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"submit": "Enviar",
+	"@submit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"register": "registo",
+	"@register": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterForm": "Formulário de Contador",
+	"@counterForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantResetTokenNumber": "Deseja redefinir o número do token para iniciar o número?",
+	"@wantResetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"resetTokenNumber": "Redefinir número de token",
+	"@resetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yes": "sim",
+	"@yes": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"no": "Não",
+	"@no": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouAccept": "Você aceita?",
+	"@doYouAccept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callToken": "Token de chamada",
+	"@callToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"toStartNumber": "para iniciar o número",
+	"@toStartNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursForm": "Formulário de Horário de Funcionamento",
+	"@officeHoursForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOfficeHours": "Para habilitar a emissão do token no APP do cliente, o switch DEVE estar LIGADO.",
+	"@enableOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"monday": "segunda-feira",
+	"@monday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tuesday": "Terça",
+	"@tuesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wednesday": "Quarta-feira",
+	"@wednesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"thursday": "Quinta-feira",
+	"@thursday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"friday": "Sexta-feira",
+	"@friday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"saturday": "Sábado",
+	"@saturday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sunday": "Domingo",
+	"@sunday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"admin": "Admin",
+	"@admin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"adminLogin": "Admin Login",
+	"@adminLogin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"captured": "Capturado",
+	"@captured": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"meter": "Metro",
+	"@meter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"kilometer": "quilômetro",
+	"@kilometer": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"away": "Longe",
+	"@away": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"distance": "Distância",
+	"@distance": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"userProfile": "Perfil de usuário",
+	"@userProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorProfile": "Perfil do Visitante",
+	"@visitorProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appInfo": "Informações do aplicativo",
+	"@appInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"online": "Conectados",
+	"@online": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"offline": "desligada",
+	"@offline": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noMoreNextToken": "Não há mais próximo token",
+	"@noMoreNextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueTokenAdminText": "O usuário com este email deve fazer login com o APP do cliente para verificar o número do token mais recente em tempo real.",
+	"@issueTokenAdminText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"remove": "Remover",
+	"@remove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantRemove": "Deseja remover?",
+	"@wantRemove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"store": "Loja",
+	"@store": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"availableStore": "Loja Disponível",
+	"@availableStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"address": "Endereço",
+	"@address": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dialPhone": "Telefone de discagem",
+	"@dialPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dial": "Discar",
+	"@dial": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sendEmail": "ENVIAR EMAIL",
+	"@sendEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"email": "O email",
+	"@email": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"code": "Código",
+	"@code": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"password": "Senha",
+	"@password": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"coordinates": "Coordenadas",
+	"@coordinates": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showWaitingQueueHistory": "Mostrar histórico de filas em espera",
+	"@showWaitingQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantConfirm": "Confirme?",
+	"@wantConfirm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeSetting": "Configuração da loja",
+	"@storeSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insight": "Discernimento",
+	"@insight": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"otherSetting": "Outra configuração",
+	"@otherSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"options": "Opções",
+	"@options": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callNow": "Ligue agora",
+	"@callNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBluetoothPrinter": "Configurar impressora Bluetooth",
+	"@setupBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectBluetoothPrinter": "Selecione impressora Bluetooth",
+	"@selectBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"discoverBluetooth": "Descubra o Bluetooth",
+	"@discoverBluetooth": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connect": "Conectar",
+	"@connect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"disconnect": "Desconectar",
+	"@disconnect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrinting": "Teste de impressão",
+	"@testPrinting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connection": "Conexão",
+	"@connection": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPrint": "Não é possível imprimir",
+	"@cannotPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"close": "Perto",
+	"@close": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectPhoto": "Selecionar foto",
+	"@selectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"onlyAcceptImageFormatNote": "Aceitar apenas o formato de imagem",
+	"@onlyAcceptImageFormatNote": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectAndUploadPhoto": "Selecionar e carregar foto",
+	"@selectAndUploadPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shouldSelectPhoto": "Deve selecionar a foto",
+	"@shouldSelectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowWizard": "Assistente de janela",
+	"@windowWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceWizard": "Assistente de serviço",
+	"@serviceWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"next": "Próximo",
+	"@next": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"accept": "Aceitar",
+	"@accept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupEmployees": "Funcionários de instalação",
+	"@setupEmployees": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editEmployee": "Editar funcionário",
+	"@editEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeInfo": "Informações do funcionário",
+	"@employeeInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeList": "Lista de empregados",
+	"@employeeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employee": "Empregado",
+	"@employee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeProfile": "Perfil do Funcionário",
+	"@employeeProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupLanguage": "Idioma de configuração",
+	"@setupLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheStall": "Configurar o estol",
+	"@setupTheStall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupPrinter": "Configuração da impressora",
+	"@setupPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorList": "Lista de visitantes",
+	"@visitorList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"boardSetting": "Configuração da placa",
+	"@boardSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pairCode": "Código de par",
+	"@pairCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"window": "Janela",
+	"@window": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceList": "Lista de serviços",
+	"@serviceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceForm": "Formulário de Serviço",
+	"@serviceForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceName": "Nome do serviço",
+	"@serviceName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceLetter": "Carta de Serviço",
+	"@serviceLetter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"startNumber": "Número inicial",
+	"@startNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupWindow": "Janela de configuração",
+	"@setupWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowForm": "Formulário da janela",
+	"@windowForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowName": "Nome da janela",
+	"@windowName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableWindow": "Ativar janela",
+	"@enableWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editWindow": "Janela de edição",
+	"@editWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openServiceList": "Abrir lista de serviços",
+	"@openServiceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveUp": "Subir",
+	"@moveUp": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveDown": "Mover para baixo",
+	"@moveDown": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editService": "Serviço de edição",
+	"@editService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitUsAt": "Visite-nos em",
+	"@visitUsAt": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appName": "Nome do Aplicativo",
+	"@appName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"packageName": "Nome do pacote",
+	"@packageName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"buildNumber": "Número da compilação",
+	"@buildNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionNumber": "Número da versão",
+	"@versionNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"termsOfUse": "termos de uso",
+	"@termsOfUse": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacy": "Privacidade",
+	"@privacy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacyPolicy": "Política de Privacidade",
+	"@privacyPolicy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"device": "Dispositivo",
+	"@device": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrint": "Impressão de teste",
+	"@testPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"printToken": "Token de impressão",
+	"@printToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenDetail": "Detalhe do token",
+	"@tokenDetail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAsCompleted": "Marcar como concluído",
+	"@markAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAllAsCompleted": "Marcar tudo como concluído",
+	"@markAllAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markComplete": "Marcar como concluído",
+	"@markComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recallToken": "Lembrar token",
+	"@recallToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"transferToken": "Token de transferência",
+	"@transferToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"homePage": "Página Inicial",
+	"@homePage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dashboard": "painel de controle",
+	"@dashboard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editCounter": "Editar contador",
+	"@editCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openEditCounter": "Abrir contador de edição",
+	"@openEditCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCounterList": "Abrir lista de contadores",
+	"@openCounterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupFunctionality": "Funcionalidade de instalação",
+	"@setupFunctionality": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iWillBeTheEmployee": "Eu serei o empregado",
+	"@iWillBeTheEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupCounter": "Contador de configuração",
+	"@setupCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"completed": "Concluído",
+	"@completed": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBizInfo": "Configurar informações da empresa",
+	"@setupBizInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupOpeningHours": "Horário de funcionamento",
+	"@setupOpeningHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupMaxTokenNumber": "Número máximo de tokens de instalação",
+	"@setupMaxTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOrDisable": "Ativar ou desativar",
+	"@enableOrDisable": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openingHours": "Horário de abertura",
+	"@openingHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"backgroundColor": "Cor de fundo",
+	"@backgroundColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"textColor": "Cor do texto",
+	"@textColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"numberOfTokenBox": "Número de caixas de tokens",
+	"@numberOfTokenBox": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenBoxNumber": "Número da caixa de token",
+	"@tokenBoxNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fontScale": "Escala de fonte",
+	"@fontScale": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pageSize": "Tamanho da página",
+	"@pageSize": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancelToken": "Cancelar token",
+	"@cancelToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportIssue": "Informar problema",
+	"@reportIssue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shareTokenInfo": "Compartilhar informações do token",
+	"@shareTokenInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBoardScreen": "Tela de placa aberta",
+	"@openBoardScreen": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBizProfile": "Abrir perfil Biz",
+	"@openBizProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCanceled": "Token cancelado",
+	"@tokenCanceled": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addVideo": "Adicionar vídeo",
+	"@addVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeVideo": "Remover vídeo",
+	"@removeVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCreated": "Token criado",
+	"@tokenCreated": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addWindow": "Adicionar janela",
+	"@addWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addService": "Adicionar serviço",
+	"@addService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addCounter": "Adicionar contador",
+	"@addCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addEmployee": "Adicionar funcionário",
+	"@addEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPrinter": "Adicionar impressora",
+	"@addPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hours": "horas",
+	"@hours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCompany": "Selecionar empresa",
+	"@selectCompany": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenInformation": "Informações do token",
+	"@tokenInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWaze": "Open Waze",
+	"@openWaze": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectYourCountry": "Escolha o seu país",
+	"@selectYourCountry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branch": "Ramo",
+	"@branch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editBranch": "Editar ramo",
+	"@editBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branchInfo": "Informações da filial",
+	"@branchInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentBranch": "Filial atual",
+	"@currentBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"smsHistory": "Histórico de SMS",
+	"@smsHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branches": "Ramos",
+	"@branches": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addBranch": "Adicionar ramificação",
+	"@addBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addMessage": "Adicionar mensagem",
+	"deleteMessage": "Apagar mensagem",
+	"messageInfo": "Informações da mensagem",
+	"messageList": "Lista de Mensagens",
+	"pushMessage": "Mensagem de envio",
+	"appearance": "Aparência",
+	"qrcode": "Código QR",
+	"scan": "Varredura"
+}

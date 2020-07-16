@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:ameencommon/models/user_data.dart';
+import 'package:ameencommon/utils/constants.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
@@ -8,6 +9,14 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:intl/intl.dart';
 import 'package:mime/mime.dart';
+
+CollectionReference usersRef = Firestore.instance.collection(DatabaseTable.users);
+CollectionReference postsRef = Firestore.instance.collection(DatabaseTable.posts);
+CollectionReference commentsRef = Firestore.instance.collection(DatabaseTable.comments);
+CollectionReference activityFeedRef = Firestore.instance.collection(DatabaseTable.feeds);
+CollectionReference followersRef = Firestore.instance.collection(DatabaseTable.followers);
+CollectionReference followingRef = Firestore.instance.collection(DatabaseTable.following);
+CollectionReference timelineRef = Firestore.instance.collection(DatabaseTable.timeline);
 
 void pushPage(BuildContext context, Widget page) {
   Navigator.of(context).push(
@@ -81,7 +90,7 @@ Future<UserModel> getProfileOfUser(String uid, CollectionReference profileUserRe
   }
 }
 
-void createPost(CollectionReference postsRef, String userId, userPostsDoc, postId, username, postBody) {
+void createPost(CollectionReference postsRef, String userId, userPostsDoc, postId, username, postBody, profilePicture) {
   postsRef.document(userId).collection(userPostsDoc).document(postId)
       .setData({
     "postId": postId,
@@ -89,9 +98,21 @@ void createPost(CollectionReference postsRef, String userId, userPostsDoc, postI
     'username': username,
     'postBody': postBody,
     'created_at': DateTime.now(),
+    'profilePicture': profilePicture,
+    'ameen': Map<dynamic, dynamic>(),
+  });
+
+  timelineRef.document(postId)
+      .setData({
+    "postId": postId,
+    'userId': userId,
+    'username': username,
+    'postBody': postBody,
+    'created_at': DateTime.now(),
+    'profilePicture': profilePicture,
+    'ameen': Map<dynamic, dynamic>(),
   });
 }
-
 
 Future<String> getUserLocation() async {
   Position position = await Geolocator()
@@ -105,3 +126,41 @@ Future<String> getUserLocation() async {
   String formattedAddress = "${placemark.locality}, ${placemark.country}";
   return formattedAddress;
 }
+
+Future<DocumentSnapshot> getPostData({@required CollectionReference postsRef, @required String userId, @required String postId }) {
+  return postsRef
+      .document(userId)
+      .collection(DatabaseTable.userPosts)
+      .document(postId)
+      .get();
+}
+
+Future<DocumentSnapshot> getCurrentUserData({ @required String userId }) {
+  return usersRef.document(userId).get();
+}
+
+
+Future<UserModel> getUserData(String uid) async {
+  DocumentSnapshot snapshot = await DbRefs.usersRef.document(uid).get();
+  if (snapshot.data == null) {
+    return Future.value(null);
+  } else {
+    try {
+      UserModel profileUser = UserModel.fromDocSnapshot(snapshot);
+      return profileUser;
+    } catch (err) {
+      return Future.value(null);
+    }
+  }
+}
+
+
+Future getLastMessageInChat(currentUserId, peerId) {
+
+
+}
+
+
+
+
+

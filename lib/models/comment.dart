@@ -1,3 +1,4 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:intl/intl.dart';
 import 'dart:convert';
 
@@ -30,6 +31,16 @@ class CommentModel {
       authorId: item['authorId'],
       createdAt: DateTime.parse(item['createdAt']),
 
+    );
+  }
+
+  factory CommentModel.fromDocument(DocumentSnapshot doc) {
+    return CommentModel(
+      authorName: doc['username'],
+      authorId: doc['userId'],
+      commentBody: doc['comment'],
+      createdAt: doc['created_at'],
+      authorPhoto: doc['authorPhoto'],
     );
   }
 

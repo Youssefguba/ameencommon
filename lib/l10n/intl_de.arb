@@ -1,0 +1,1582 @@
+{
+	"@@last_modified": "2020-06-03T06:56:27.341772",
+	"title": "Paperless QMS",
+	"@title": {
+		"description": "Paperless QMS",
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperless": "Papierlos",
+	"@paperless": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperlessQmsPlan": "Papierloser QMS-Plan",
+	"@paperlessQmsPlan": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectWindow": "Wählen Sie Fenster",
+	"@selectWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verifyAccount": "Konto überprüfen",
+	"@verifyAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moreInformation": "Mehr Informationen",
+	"@moreInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscription": "Abonnement",
+	"@subscription": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"success": "Erfolg",
+	"@success": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"status": "Status",
+	"@status": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fail": "Scheitern",
+	"@fail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whoAmI": "Wer bin ich?",
+	"@whoAmI": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectRole": "Wählen Sie Rolle",
+	"@selectRole": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"service": "Bedienung",
+	"@service": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentWindow": "Aktuelles Fenster",
+	"@currentWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheBusiness": "Richten Sie das Geschäft ein",
+	"@setupTheBusiness": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenManagement": "Token-Verwaltung",
+	"@tokenManagement": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"webSite": "webseite",
+	"@webSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"downloadData": "Daten herunterladen",
+	"@downloadData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackData": "Feedback-Daten",
+	"@feedbackData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast1Days": "Feedback-Daten dauern 1 Tage",
+	"@feedbackDataLast1Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast3Days": "Feedback-Daten dauern 3 Tage",
+	"@feedbackDataLast3Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast7Days": "Feedback-Daten dauern 7 Tage",
+	"@feedbackDataLast7Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedback": "Feedback",
+	"@feedback": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windows": "Windows",
+	"@windows": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowInfo": "Fensterinfo",
+	"@windowInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPhoto": "Foto hinzufügen",
+	"@addPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removePhoto": "Foto entfernen",
+	"@removePhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addLogo": "Logo hinzufügen",
+	"@addLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeLogo": "Logo entfernen",
+	"@removeLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"makeIdle": "Leerlauf machen",
+	"@makeIdle": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"readThis": "Lesen Sie dies",
+	"@readThis": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmEmployee": "Ich bin Angestellter",
+	"@iAmEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmAdmin": "Ich bin ADMIN",
+	"@iAmAdmin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openImageGalerry": "Öffnen Sie Image Galerry",
+	"@openImageGalerry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCamera": "Kamera öffnen",
+	"@openCamera": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"done": "Erledigt",
+	"@done": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"message": "Botschaft",
+	"@message": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myToken": "Mein Token",
+	"@myToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addToken": "Token hinzufügen",
+	"@addToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"create": "Erstellen",
+	"@create": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"businessInfo": "Geschäftsinformationen",
+	"@businessInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterInfo": "Counter Info",
+	"@counterInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"queueHistory": "Warteschlangenverlauf",
+	"@queueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorHistory": "Besuchergeschichte",
+	"@visitorHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceInfo": "Serviceinfo",
+	"@serviceInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"personalInfo": "Persönliche Informationen",
+	"@personalInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hello": "Hallo",
+	"@hello": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setting": "Rahmen",
+	"@setting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"permission": "Genehmigung",
+	"@permission": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"peopleWait": "Leute warten",
+	"@peopleWait": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenNumber": "Token-Nummer",
+	"@tokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"proceedTo": "Weiter zu",
+	"@proceedTo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counter": "Zahler",
+	"@counter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waiting": "Warten",
+	"@waiting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createdDate": "Erstellt",
+	"@createdDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"statusQueue": "Status",
+	"@statusQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentToken": "Aktuelles Token",
+	"@currentToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueue": "Meine Warteschlange",
+	"@myQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"more": "Mehr",
+	"@more": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueueToday": "Meine Warteschlange heute",
+	"@myQueueToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWebSite": "Öffnen Sie die Website",
+	"@openWebSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribe": "Abonnieren",
+	"@subscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unsubscribe": "Abmelden",
+	"@unsubscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"share": "Aktie",
+	"@share": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notification": "Benachrichtigung",
+	"@notification": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"vibration": "Vibration",
+	"@vibration": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"name": "Name",
+	"@name": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"runningOn": "Laufen auf",
+	"@runningOn": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionName": "Versionsname",
+	"@versionName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionCode": "Versionscode",
+	"@versionCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appId": "App ID",
+	"@appId": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"localTime": "Ortszeit",
+	"@localTime": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timezone": "Zeitzone",
+	"@timezone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myPhoneNumber": "Meine Telefonnummer",
+	"@myPhoneNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myEmail": "Meine E-Mail",
+	"@myEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"switchAccount": "Benutzer wechseln",
+	"@switchAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"account": "Konto",
+	"@account": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"purchaseHistory": "Kaufhistorie",
+	"@purchaseHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribeNow": "Abonniere jetzt",
+	"@subscribeNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"haveAnAccount": "Ein Konto haben? Einloggen",
+	"@haveAnAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signout": "Ausloggen",
+	"@signout": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signin": "Einloggen",
+	"@signin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"login": "Einloggen",
+	"@login": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createAccount": "Benutzerkonto anlegen",
+	"@createAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"forgotPassword": "Passwort vergessen",
+	"@forgotPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"phone": "Telefon",
+	"@phone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"loginMessage": "Wir senden Ihnen eine SMS, um Ihre Identität zu überprüfen. Bitte geben Sie Ihre Nummer unten ein!",
+	"@loginMessage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verificationCode": "Verifizierungs-Schlüssel",
+	"@verificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pinNotArrive": "Wenn Ihr Code nicht innerhalb von 1 Minute eintrifft, berühren Sie",
+	"@pinNotArrive": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"here": "Hier",
+	"@here": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantExit": "Willst du beenden",
+	"@wantExit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ok": "OK",
+	"@ok": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancel": "Stornieren",
+	"@cancel": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ago": "Vor",
+	"@ago": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wrongVerifyCode": "Wir konnten Ihren Code nicht verifizieren, bitte versuchen Sie es erneut!",
+	"@wrongVerifyCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotCreateProfile": "Wir konnten Ihr Profil vorerst nicht erstellen. Bitte versuchen Sie es später erneut",
+	"@cannotCreateProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotRetry": "Sie können es noch nicht wiederholen!",
+	"@cannotRetry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPhoneEmpty": "Ihre Telefonnummer darf nicht leer sein!",
+	"@cannotPhoneEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidPhone": "Diese Telefonnummer ist ungültig!",
+	"@invalidPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotVerificationCodeEmpty": "Ihr Bestätigungscode darf nicht leer sein!",
+	"@cannotVerificationCodeEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidVerificationCode": "Dieser Bestätigungscode ist ungültig!",
+	"@invalidVerificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectLanguage": "Sprache auswählen",
+	"@selectLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"language": "Sprache",
+	"@language": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openDisplayUnit": "Anzeigeeinheit öffnen",
+	"@openDisplayUnit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showQueueHistory": "Warteschlangenverlauf anzeigen",
+	"@showQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueToken": "Token ausgeben",
+	"@issueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"home": "Zuhause",
+	"@home": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waitedForComplete": "Auf Vollständigkeit gewartet",
+	"@waitedForComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotIssueTokenHoliday": "Sie können das Token im Urlaub nicht ausstellen. Heute ist",
+	"@cannotIssueTokenHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"mustIssueTokenOfficeHours": "Sie müssen das Token während der Bürozeiten ausstellen",
+	"@mustIssueTokenOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notMeetTimeInterval": "Erfüllt nicht das Zeitintervall für die Erstellung des nächsten Tokens.",
+	"@notMeetTimeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenList": "Token-Liste",
+	"@tokenList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"nextToken": "Nächstes Token",
+	"@nextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectDepartment": "Wählen Sie eine Abteilung aus",
+	"@selectDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCounter": "Wählen Sie einen Zähler",
+	"@selectCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recall": "Erinnern",
+	"@recall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentStore": "AKTUELLER SPEICHER",
+	"@currentStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeList": "Geschäftsliste",
+	"@storeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouWantRecall": "Möchten Sie sich erinnern?",
+	"@doYouWantRecall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"deparment": "Abteilung",
+	"@deparment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightCompare": "Insight Compare",
+	"@insightCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightLast7days": "Einblick in die letzten 7 Tage",
+	"@insightLast7days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightToday": "Einblick heute",
+	"@insightToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHours": "Geschäftszeiten",
+	"@officeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"publicHolidays": "Feiertage",
+	"@publicHolidays": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeForm": "Formular speichern",
+	"@storeForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportCompare": "Bericht vergleichen",
+	"@reportCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yesterday": "Gestern",
+	"@yesterday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"today": "Heute",
+	"@today": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"totalTokenCount": "Gesamtzahl der Token",
+	"@totalTokenCount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"report7daysAgo": "Vor 7 Tagen melden",
+	"@report7daysAgo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportPercentageToday": "Prozentsatz heute melden",
+	"@reportPercentageToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterList": "Zählerliste",
+	"@counterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createCounter": "Zähler erstellen",
+	"@createCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentList": "Abteilungsliste",
+	"@departmentList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentForm": "Abteilungsformular",
+	"@departmentForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createDepartment": "Abteilung erstellen",
+	"@createDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"letter": "Brief",
+	"@letter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"start": "Start",
+	"@start": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueToken": "Zeitintervall für die Ausgabe des Tokens",
+	"@timeIntervalToIssueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueTokenText": "Das Zeitintervall dient dazu, zu verhindern, dass der Benutzer das Token wiederholt ausstellt. Dies ist eine Einstellung in der Minitue-Einheit.",
+	"@timeIntervalToIssueTokenText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeInterval": "Zeitintervall",
+	"@timeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalHint": "Beispiel: 2 Minuten",
+	"@timeIntervalHint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"save": "sparen",
+	"@save": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayList": "Feiertagsliste",
+	"@holidayList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayDate": "Feiertagsdatum",
+	"@holidayDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whatIsHolidayName": "Was ist der Feiertagsname?",
+	"@whatIsHolidayName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pleaseEnterSomeText": "Bitte geben Sie einen Text ein",
+	"@pleaseEnterSomeText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createHoliday": "Urlaub erstellen",
+	"@createHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayForm": "Urlaubsform",
+	"@holidayForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableHolidayText": "Um Holiday zu aktivieren, MUSS der Schalter auf ON stehen.",
+	"@enableHolidayText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursList": "Sprechstundenliste",
+	"@officeHoursList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createOfficeHours": "Bürozeiten erstellen",
+	"@createOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableThisStore": "Aktivieren Sie diesen Shop",
+	"@enableThisStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"edit": "Bearbeiten",
+	"@edit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"submit": "einreichen",
+	"@submit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"register": "Registrieren",
+	"@register": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterForm": "Gegenformular",
+	"@counterForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantResetTokenNumber": "Möchten Sie die Token-Nummer auf die Startnummer zurücksetzen?",
+	"@wantResetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"resetTokenNumber": "Token-Nummer zurücksetzen",
+	"@resetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yes": "Ja",
+	"@yes": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"no": "Nein",
+	"@no": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouAccept": "Akzeptieren Sie?",
+	"@doYouAccept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callToken": "Token anrufen",
+	"@callToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"toStartNumber": "Nummer starten",
+	"@toStartNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursForm": "Bürozeiten Formular",
+	"@officeHoursForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOfficeHours": "Um die Ausgabe des Tokens auf der Client-App zu aktivieren, MUSS der Switch eingeschaltet sein.",
+	"@enableOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"monday": "Montag",
+	"@monday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tuesday": "Dienstag",
+	"@tuesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wednesday": "Mittwoch",
+	"@wednesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"thursday": "Donnerstag",
+	"@thursday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"friday": "Freitag",
+	"@friday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"saturday": "Samstag",
+	"@saturday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sunday": "Sonntag",
+	"@sunday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"admin": "Administrator",
+	"@admin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"adminLogin": "Admin Login",
+	"@adminLogin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"captured": "Gefangen",
+	"@captured": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"meter": "Meter",
+	"@meter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"kilometer": "Kilometer",
+	"@kilometer": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"away": "Weg",
+	"@away": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"distance": "Entfernung",
+	"@distance": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"userProfile": "Benutzerprofil",
+	"@userProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorProfile": "Besucherprofil",
+	"@visitorProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appInfo": "App-Information",
+	"@appInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"online": "Online",
+	"@online": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"offline": "Offline",
+	"@offline": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noMoreNextToken": "Kein nächstes Token mehr",
+	"@noMoreNextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueTokenAdminText": "Der Benutzer mit dieser E-Mail sollte sich bei der Client-App anmelden, um die neueste Token-Nummer in Echtzeit zu überprüfen.",
+	"@issueTokenAdminText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"remove": "Löschen",
+	"@remove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantRemove": "Möchten Sie entfernen?",
+	"@wantRemove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"store": "Geschäft",
+	"@store": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"availableStore": "Verfügbares Geschäft",
+	"@availableStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"address": "Adresse",
+	"@address": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dialPhone": "Telefon wählen",
+	"@dialPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dial": "wählen",
+	"@dial": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sendEmail": "E-Mail senden",
+	"@sendEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"email": "Email",
+	"@email": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"code": "Code",
+	"@code": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"password": "Passwort",
+	"@password": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"coordinates": "Koordinaten",
+	"@coordinates": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showWaitingQueueHistory": "Verlauf der Warteschlange anzeigen",
+	"@showWaitingQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantConfirm": "Bestätigen?",
+	"@wantConfirm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeSetting": "Speichereinstellung",
+	"@storeSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insight": "Einblick",
+	"@insight": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"otherSetting": "Andere Einstellungen",
+	"@otherSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"options": "Optionen",
+	"@options": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callNow": "Jetzt anrufen",
+	"@callNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBluetoothPrinter": "Bluetooth-Drucker einrichten",
+	"@setupBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectBluetoothPrinter": "Wählen Sie Bluetooth-Drucker",
+	"@selectBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"discoverBluetooth": "Entdecken Sie Bluetooth",
+	"@discoverBluetooth": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connect": "Verbinden",
+	"@connect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"disconnect": "Trennen",
+	"@disconnect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrinting": "Testdruck",
+	"@testPrinting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connection": "Verbindung",
+	"@connection": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPrint": "Kann nicht drucken",
+	"@cannotPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"close": "Schließen",
+	"@close": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectPhoto": "Foto auswählen",
+	"@selectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"onlyAcceptImageFormatNote": "Akzeptieren Sie nur das Bildformat",
+	"@onlyAcceptImageFormatNote": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectAndUploadPhoto": "Foto auswählen und hochladen",
+	"@selectAndUploadPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shouldSelectPhoto": "Sollte Foto auswählen",
+	"@shouldSelectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowWizard": "Fensterassistent",
+	"@windowWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceWizard": "Service-Assistent",
+	"@serviceWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"next": "Nächster",
+	"@next": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"accept": "Akzeptieren",
+	"@accept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupEmployees": "Mitarbeiter einrichten",
+	"@setupEmployees": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editEmployee": "Mitarbeiter bearbeiten",
+	"@editEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeInfo": "Mitarbeiterinfo",
+	"@employeeInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeList": "Mitarbeiterliste",
+	"@employeeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employee": "Mitarbeiter",
+	"@employee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeProfile": "Angestelltenprofil",
+	"@employeeProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupLanguage": "Setup-Sprache",
+	"@setupLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheStall": "Richten Sie den Stall ein",
+	"@setupTheStall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupPrinter": "Drucker einrichten",
+	"@setupPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorList": "Besucherliste",
+	"@visitorList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"boardSetting": "Board-Einstellung",
+	"@boardSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pairCode": "Paarcode",
+	"@pairCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"window": "Fenster",
+	"@window": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceList": "Serviceliste",
+	"@serviceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceForm": "Serviceformular",
+	"@serviceForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceName": "Dienstname",
+	"@serviceName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceLetter": "Servicebrief",
+	"@serviceLetter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"startNumber": "Startnummer",
+	"@startNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupWindow": "Setup-Fenster",
+	"@setupWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowForm": "Fensterform",
+	"@windowForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowName": "Fenstername",
+	"@windowName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableWindow": "Fenster aktivieren",
+	"@enableWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editWindow": "Fenster bearbeiten",
+	"@editWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openServiceList": "Öffnen Sie die Serviceliste",
+	"@openServiceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveUp": "Nach oben gehen",
+	"@moveUp": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveDown": "Sich abwärts bewegen",
+	"@moveDown": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editService": "Service bearbeiten",
+	"@editService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitUsAt": "Besuch uns in",
+	"@visitUsAt": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appName": "App Name",
+	"@appName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"packageName": "Paketnamen",
+	"@packageName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"buildNumber": "Build-Nummer",
+	"@buildNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionNumber": "Versionsnummer",
+	"@versionNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"termsOfUse": "Nutzungsbedingungen",
+	"@termsOfUse": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacy": "Privatsphäre",
+	"@privacy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacyPolicy": "Datenschutz-Bestimmungen",
+	"@privacyPolicy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"device": "Gerät",
+	"@device": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrint": "Test-Druck",
+	"@testPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"printToken": "Token drucken",
+	"@printToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenDetail": "Token-Detail",
+	"@tokenDetail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAsCompleted": "Als erledigt markieren",
+	"@markAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAllAsCompleted": "Alle als abgeschlossen markieren",
+	"@markAllAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markComplete": "Als abgeschlossen markieren",
+	"@markComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recallToken": "Token zurückrufen",
+	"@recallToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"transferToken": "Token übertragen",
+	"@transferToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"homePage": "Startseite",
+	"@homePage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dashboard": "Instrumententafel",
+	"@dashboard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editCounter": "Zähler bearbeiten",
+	"@editCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openEditCounter": "Öffnen Sie den Bearbeitungszähler",
+	"@openEditCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCounterList": "Zählerliste öffnen",
+	"@openCounterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupFunctionality": "Setup-Funktionalität",
+	"@setupFunctionality": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iWillBeTheEmployee": "Ich werde der Angestellte sein",
+	"@iWillBeTheEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupCounter": "Zähler einrichten",
+	"@setupCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"completed": "Abgeschlossen",
+	"@completed": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBizInfo": "Business Info einrichten",
+	"@setupBizInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupOpeningHours": "Öffnungszeiten einrichten",
+	"@setupOpeningHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupMaxTokenNumber": "Richten Sie die maximale Token-Nummer ein",
+	"@setupMaxTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOrDisable": "Aktivieren oder deaktivieren",
+	"@enableOrDisable": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openingHours": "Öffnungszeiten",
+	"@openingHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"backgroundColor": "Hintergrundfarbe",
+	"@backgroundColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"textColor": "Textfarbe",
+	"@textColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"numberOfTokenBox": "Anzahl der Token Box",
+	"@numberOfTokenBox": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenBoxNumber": "Token Box Nummer",
+	"@tokenBoxNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fontScale": "Schriftskala",
+	"@fontScale": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pageSize": "Seitengröße",
+	"@pageSize": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancelToken": "Token abbrechen",
+	"@cancelToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportIssue": "Melde Probleme",
+	"@reportIssue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shareTokenInfo": "Token-Informationen teilen",
+	"@shareTokenInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBoardScreen": "Öffnen Sie den Board-Bildschirm",
+	"@openBoardScreen": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBizProfile": "Öffnen Sie das Biz-Profil",
+	"@openBizProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCanceled": "Token abgebrochen",
+	"@tokenCanceled": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addVideo": "Video hinzufügen",
+	"@addVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeVideo": "Video entfernen",
+	"@removeVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCreated": "Token erstellt",
+	"@tokenCreated": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addWindow": "Fenster hinzufügen",
+	"@addWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addService": "Dienst hinzufügen",
+	"@addService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addCounter": "Zähler hinzufügen",
+	"@addCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addEmployee": "Mitarbeiter hinzufügen",
+	"@addEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPrinter": "Drucker hinzufügen",
+	"@addPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hours": "Std",
+	"@hours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCompany": "Unternehmen auswählen",
+	"@selectCompany": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenInformation": "Token-Informationen",
+	"@tokenInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWaze": "Öffnen Sie Waze",
+	"@openWaze": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectYourCountry": "Wähle dein Land",
+	"@selectYourCountry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branch": "Ast",
+	"@branch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editBranch": "Zweig bearbeiten",
+	"@editBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branchInfo": "Filialinfo",
+	"@branchInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentBranch": "Aktueller Zweig",
+	"@currentBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"smsHistory": "SMS-Verlauf",
+	"@smsHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branches": "Geäst",
+	"@branches": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addBranch": "Zweig hinzufügen",
+	"@addBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addMessage": "Nachricht hinzufügen",
+	"deleteMessage": "Nachricht löschen",
+	"messageInfo": "Nachrichteninfo",
+	"messageList": "Nachrichtenliste",
+	"pushMessage": "Push-Nachricht",
+	"appearance": "Aussehen",
+	"qrcode": "QR-CODE",
+	"scan": "Scan"
+}

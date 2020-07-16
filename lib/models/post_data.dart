@@ -1,6 +1,6 @@
 import 'package:ameencommon/models/comment.dart';
 import 'package:ameencommon/models/reaction_model.dart';
-import 'package:intl/intl.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 // Model of Post
 // ignore: slash_for_doc_comments
@@ -35,9 +35,10 @@ class PostData {
   String authorName;
   String authorId;
   String authorPhoto;
-  DateTime postTime;
+  int ameenCount;
+  Timestamp postTime;
+  dynamic ameenReaction;
   List<CommentModel> comments;
-  List<AmeenReaction> ameenReaction;
   List<RecommendReaction> recommendReaction;
   List<ForbiddenReaction> forbiddenReaction;
 
@@ -50,13 +51,11 @@ class PostData {
     this.authorId,
     this.comments,
     this.ameenReaction,
+    this.ameenCount,
     this.recommendReaction,
     this.forbiddenReaction,
   });
 
-  String get postTimeFormatted =>
-      DateFormat.yMMMd('ar').add_jm().format(postTime);
-//  String get postTimeFormatted => DateFormat.yMd().format(postTime);
 
   factory PostData.fromJson(Map<String, dynamic> item) {
     return PostData(
@@ -64,12 +63,58 @@ class PostData {
       body: item['body'],
       authorName: item['authorName'],
       authorId: item['authorId'],
-      postTime: DateTime.parse(item['createdAt']),
-      comments: (item['comments'] as List).map((i) => CommentModel.fromJson(i)).toList(),
-      ameenReaction:     (item['ameenReaction']     as List).map((i) => AmeenReaction.fromJson(i)).toList(),
-      recommendReaction: (item['recommendReaction'] as List).map((i) => RecommendReaction.fromJson(i)).toList(),
-      forbiddenReaction: (item['forbiddenReaction'] as List).map((i) => ForbiddenReaction.fromJson(i)).toList(),
-
+      comments: (item['comments'] as List)
+          .map((i) => CommentModel.fromJson(i))
+          .toList(),
+      ameenReaction: (item['ameenReaction'] as List)
+          .map((i) => AmeenReaction.fromJson(i))
+          .toList(),
+      recommendReaction: (item['recommendReaction'] as List)
+          .map((i) => RecommendReaction.fromJson(i))
+          .toList(),
+      forbiddenReaction: (item['forbiddenReaction'] as List)
+          .map((i) => ForbiddenReaction.fromJson(i))
+          .toList(),
     );
   }
+
+  factory PostData.fromQuery(QuerySnapshot doc) {
+    return PostData(
+      postId: 'postId',
+      body: 'postBody',
+      authorName: 'username',
+      authorId: 'userId',
+      ameenReaction: 'ameen',
+      postTime: Timestamp.now(),
+      authorPhoto: 'profilePicture',
+    );
+  }
+
+  factory PostData.fromDocument(DocumentSnapshot doc) {
+    return PostData(
+      body: doc['postBody'],
+      authorName: doc['username'],
+      authorId: doc['userId'],
+      postId: doc['postId'],
+      ameenReaction: doc['ameen'],
+      postTime: doc['created_at'],
+      authorPhoto: doc['profilePicture'],
+    );
+  }
+
+
+  int getAmeenCount(ameen) {
+    // if no likes, return 0
+    if (ameenReaction == null) {
+      return 0;
+    }
+    int count = 0;
+    ameenReaction.values.forEach((val) {
+      if (val == true) {
+        count += 1;
+      }
+    });
+    return count;
+  }
+
 }

@@ -1,0 +1,1582 @@
+{
+	"@@last_modified": "2020-06-03T06:56:27.341772",
+	"title": "Paperless QMS",
+	"@title": {
+		"description": "Paperless QMS",
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperless": "페이퍼리스",
+	"@paperless": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperlessQmsPlan": "종이없는 QMS 계획",
+	"@paperlessQmsPlan": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectWindow": "창 선택",
+	"@selectWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verifyAccount": "계정 확인",
+	"@verifyAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moreInformation": "추가 정보",
+	"@moreInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscription": "신청",
+	"@subscription": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"success": "성공",
+	"@success": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"status": "지위",
+	"@status": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fail": "실패",
+	"@fail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whoAmI": "나는 누구인가?",
+	"@whoAmI": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectRole": "역할 선택",
+	"@selectRole": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"service": "서비스",
+	"@service": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentWindow": "현재 창",
+	"@currentWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheBusiness": "사업 설정",
+	"@setupTheBusiness": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenManagement": "토큰 관리",
+	"@tokenManagement": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"webSite": "웹 사이트",
+	"@webSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"downloadData": "데이터 다운로드",
+	"@downloadData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackData": "피드백 데이터",
+	"@feedbackData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast1Days": "지난 1 일 동안의 피드백 데이터",
+	"@feedbackDataLast1Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast3Days": "지난 3 일 동안의 피드백 데이터",
+	"@feedbackDataLast3Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast7Days": "지난 7 일 동안의 피드백 데이터",
+	"@feedbackDataLast7Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedback": "피드백",
+	"@feedback": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windows": "윈도우",
+	"@windows": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowInfo": "창 정보",
+	"@windowInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPhoto": "사진 추가",
+	"@addPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removePhoto": "사진 제거",
+	"@removePhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addLogo": "로고 추가",
+	"@addLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeLogo": "로고 제거",
+	"@removeLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"makeIdle": "유휴 상태로 만들기",
+	"@makeIdle": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"readThis": "이것을 읽으십시오",
+	"@readThis": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmEmployee": "저는 직원입니다",
+	"@iAmEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmAdmin": "나는 관리자입니다",
+	"@iAmAdmin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openImageGalerry": "이미지 열기",
+	"@openImageGalerry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCamera": "오픈 카메라",
+	"@openCamera": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"done": "끝난",
+	"@done": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"message": "메시지",
+	"@message": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myToken": "내 토큰",
+	"@myToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addToken": "토큰 추가하기",
+	"@addToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"create": "몹시 떠들어 대다",
+	"@create": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"businessInfo": "사업 소개",
+	"@businessInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterInfo": "카운터 정보",
+	"@counterInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"queueHistory": "큐 히스토리",
+	"@queueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorHistory": "방문자 기록",
+	"@visitorHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceInfo": "서비스 정보",
+	"@serviceInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"personalInfo": "개인적인 정보",
+	"@personalInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hello": "여보세요",
+	"@hello": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setting": "환경",
+	"@setting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"permission": "허가",
+	"@permission": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"peopleWait": "기다리는 사람들",
+	"@peopleWait": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenNumber": "토큰 번호",
+	"@tokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"proceedTo": "로 진행",
+	"@proceedTo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counter": "카운터",
+	"@counter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waiting": "기다리는",
+	"@waiting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createdDate": "만들어진",
+	"@createdDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"statusQueue": "지위",
+	"@statusQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentToken": "현재 토큰",
+	"@currentToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueue": "내 대기열",
+	"@myQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"more": "더",
+	"@more": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueueToday": "내 대기열 오늘",
+	"@myQueueToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWebSite": "열린 웹 사이트",
+	"@openWebSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribe": "구독",
+	"@subscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unsubscribe": "탈퇴",
+	"@unsubscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"share": "몫",
+	"@share": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notification": "공고",
+	"@notification": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"vibration": "진동",
+	"@vibration": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"name": "이름",
+	"@name": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"runningOn": "에 실행",
+	"@runningOn": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionName": "버전 이름",
+	"@versionName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionCode": "버전 코드",
+	"@versionCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appId": "앱 ID",
+	"@appId": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"localTime": "현지 시각",
+	"@localTime": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timezone": "시간대",
+	"@timezone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myPhoneNumber": "내 전화 번호",
+	"@myPhoneNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myEmail": "내 이메일",
+	"@myEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"switchAccount": "계정 전환",
+	"@switchAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"account": "계정",
+	"@account": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"purchaseHistory": "구매 내역",
+	"@purchaseHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribeNow": "지금 구독하십시오",
+	"@subscribeNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"haveAnAccount": "계정이있다? 로그인",
+	"@haveAnAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signout": "사인 아웃",
+	"@signout": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signin": "로그인",
+	"@signin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"login": "로그인",
+	"@login": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createAccount": "계정 만들기",
+	"@createAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"forgotPassword": "비밀번호를 잊으 셨나요",
+	"@forgotPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"phone": "전화",
+	"@phone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"loginMessage": "귀하의 신원을 확인하기 위해 SMS 메시지를 보내 드리겠습니다. 바로 아래에 번호를 입력하십시오!",
+	"@loginMessage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verificationCode": "확인 코드",
+	"@verificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pinNotArrive": "1 분 안에 코드가 도착하지 않으면",
+	"@pinNotArrive": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"here": "여기",
+	"@here": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantExit": "당신은 출구를 원하십니까",
+	"@wantExit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ok": "승인",
+	"@ok": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancel": "취소",
+	"@cancel": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ago": "...전에",
+	"@ago": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wrongVerifyCode": "코드를 확인할 수 없습니다. 다시 시도하십시오!",
+	"@wrongVerifyCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotCreateProfile": "지금은 프로필을 만들 수 없습니다. 나중에 다시 시도하십시오",
+	"@cannotCreateProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotRetry": "아직 재 시도 할 수 없습니다!",
+	"@cannotRetry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPhoneEmpty": "전화 번호는 비워 둘 수 없습니다!",
+	"@cannotPhoneEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidPhone": "이 전화 번호는 유효하지 않습니다!",
+	"@invalidPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotVerificationCodeEmpty": "인증 코드는 비워 둘 수 없습니다!",
+	"@cannotVerificationCodeEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidVerificationCode": "이 인증 코드는 유효하지 않습니다!",
+	"@invalidVerificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectLanguage": "언어 선택",
+	"@selectLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"language": "언어",
+	"@language": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openDisplayUnit": "디스플레이 유닛 열기",
+	"@openDisplayUnit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showQueueHistory": "대기열 기록 표시",
+	"@showQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueToken": "이슈 토큰",
+	"@issueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"home": "집",
+	"@home": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waitedForComplete": "완료 대기",
+	"@waitedForComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotIssueTokenHoliday": "휴일 중에는 토큰을 발행 할 수 없습니다. 오늘은",
+	"@cannotIssueTokenHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"mustIssueTokenOfficeHours": "근무 시간 동안 토큰을 발행해야합니다",
+	"@mustIssueTokenOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notMeetTimeInterval": "다음 토큰 생성을위한 시간 간격을 충족하지 않습니다.",
+	"@notMeetTimeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenList": "토큰리스트",
+	"@tokenList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"nextToken": "다음 토큰",
+	"@nextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectDepartment": "부서를 선택하십시오",
+	"@selectDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCounter": "카운터를 선택하십시오",
+	"@selectCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recall": "회상",
+	"@recall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentStore": "현재 상점",
+	"@currentStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeList": "점포리스트",
+	"@storeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouWantRecall": "당신은 리콜을 원하십니까?",
+	"@doYouWantRecall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"deparment": "출발",
+	"@deparment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightCompare": "통찰력 비교",
+	"@insightCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightLast7days": "지난 7 일간의 통찰",
+	"@insightLast7days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightToday": "오늘 통찰력",
+	"@insightToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHours": "근무 시간",
+	"@officeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"publicHolidays": "공휴일",
+	"@publicHolidays": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeForm": "저장 양식",
+	"@storeForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportCompare": "보고서 비교",
+	"@reportCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yesterday": "어제",
+	"@yesterday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"today": "오늘",
+	"@today": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"totalTokenCount": "총 토큰 수",
+	"@totalTokenCount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"report7daysAgo": "7 일 전보고",
+	"@report7daysAgo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportPercentageToday": "오늘보고 비율",
+	"@reportPercentageToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterList": "카운터리스트",
+	"@counterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createCounter": "카운터 생성",
+	"@createCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentList": "부서리스트",
+	"@departmentList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentForm": "부서 양식",
+	"@departmentForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createDepartment": "부서 만들기",
+	"@createDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"letter": "편지",
+	"@letter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"start": "스타트",
+	"@start": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueToken": "토큰 발행 시간 간격",
+	"@timeIntervalToIssueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueTokenText": "시간 간격은 사용자가 토큰을 반복해서 발행하는 것을 방지하기위한 것입니다. 이것은 최소 단위의 설정입니다.",
+	"@timeIntervalToIssueTokenText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeInterval": "시간 간격",
+	"@timeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalHint": "예 : 2 분",
+	"@timeIntervalHint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"save": "구하다",
+	"@save": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayList": "휴일 목록",
+	"@holidayList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayDate": "휴일 날짜",
+	"@holidayDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whatIsHolidayName": "휴일 이름은 무엇입니까?",
+	"@whatIsHolidayName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pleaseEnterSomeText": "텍스트를 입력하십시오",
+	"@pleaseEnterSomeText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createHoliday": "휴일 만들기",
+	"@createHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayForm": "휴일 양식",
+	"@holidayForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableHolidayText": "공휴일을 활성화하려면 스위치가 켜져 있어야합니다.",
+	"@enableHolidayText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursList": "근무 시간 목록",
+	"@officeHoursList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createOfficeHours": "근무 시간 만들기",
+	"@createOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableThisStore": "이 스토어 사용",
+	"@enableThisStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"edit": "편집하다",
+	"@edit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"submit": "제출",
+	"@submit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"register": "레지스터",
+	"@register": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterForm": "카운터 양식",
+	"@counterForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantResetTokenNumber": "토큰 번호를 시작 번호로 재설정 하시겠습니까?",
+	"@wantResetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"resetTokenNumber": "토큰 번호 재설정",
+	"@resetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yes": "예",
+	"@yes": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"no": "아니",
+	"@no": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouAccept": "당신은 동의합니까?",
+	"@doYouAccept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callToken": "콜 토큰",
+	"@callToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"toStartNumber": "시작 번호",
+	"@toStartNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursForm": "근무 시간 양식",
+	"@officeHoursForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOfficeHours": "클라이언트 APP에서 토큰을 발행하려면 스위치가 ON이어야합니다.",
+	"@enableOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"monday": "월요일",
+	"@monday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tuesday": "화요일",
+	"@tuesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wednesday": "수요일",
+	"@wednesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"thursday": "목요일",
+	"@thursday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"friday": "금요일",
+	"@friday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"saturday": "토요일",
+	"@saturday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sunday": "일요일",
+	"@sunday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"admin": "관리자",
+	"@admin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"adminLogin": "관리자 로그인",
+	"@adminLogin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"captured": "캡처",
+	"@captured": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"meter": "미터",
+	"@meter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"kilometer": "킬로미터",
+	"@kilometer": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"away": "떨어져",
+	"@away": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"distance": "거리",
+	"@distance": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"userProfile": "유저 프로필",
+	"@userProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorProfile": "방문자 프로필",
+	"@visitorProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appInfo": "앱 정보",
+	"@appInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"online": "온라인",
+	"@online": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"offline": "오프라인",
+	"@offline": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noMoreNextToken": "더 이상 다음 토큰이 없습니다",
+	"@noMoreNextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueTokenAdminText": "이 전자 메일을 가진 사용자는 클라이언트 APP로 로그인하여 실시간 최신 토큰 번호를 확인해야합니다.",
+	"@issueTokenAdminText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"remove": "풀다",
+	"@remove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantRemove": "제거 하시겠습니까?",
+	"@wantRemove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"store": "저장",
+	"@store": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"availableStore": "사용 가능한 상점",
+	"@availableStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"address": "주소",
+	"@address": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dialPhone": "전화 걸기",
+	"@dialPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dial": "다이얼",
+	"@dial": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sendEmail": "이메일을 보내",
+	"@sendEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"email": "이메일",
+	"@email": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"code": "암호",
+	"@code": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"password": "암호",
+	"@password": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"coordinates": "좌표",
+	"@coordinates": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showWaitingQueueHistory": "대기 대기열 내역 표시",
+	"@showWaitingQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantConfirm": "확인 하시겠습니까?",
+	"@wantConfirm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeSetting": "매장 설정",
+	"@storeSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insight": "통찰력",
+	"@insight": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"otherSetting": "다른 설정",
+	"@otherSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"options": "옵션",
+	"@options": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callNow": "지금 전화",
+	"@callNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBluetoothPrinter": "블루투스 프린터 설정",
+	"@setupBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectBluetoothPrinter": "블루투스 프린터 선택",
+	"@selectBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"discoverBluetooth": "블루투스 발견",
+	"@discoverBluetooth": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connect": "잇다",
+	"@connect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"disconnect": "분리",
+	"@disconnect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrinting": "테스트 인쇄",
+	"@testPrinting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connection": "연결",
+	"@connection": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPrint": "인쇄 할 수 없습니다",
+	"@cannotPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"close": "닫기",
+	"@close": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectPhoto": "사진 선택",
+	"@selectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"onlyAcceptImageFormatNote": "이미지 형식 만 수락",
+	"@onlyAcceptImageFormatNote": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectAndUploadPhoto": "사진 선택 및 업로드",
+	"@selectAndUploadPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shouldSelectPhoto": "사진을 선택해야합니다",
+	"@shouldSelectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowWizard": "창 마법사",
+	"@windowWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceWizard": "서비스 마법사",
+	"@serviceWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"next": "다음 것",
+	"@next": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"accept": "동의",
+	"@accept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupEmployees": "직원 설정",
+	"@setupEmployees": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editEmployee": "직원 편집",
+	"@editEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeInfo": "직원 정보",
+	"@employeeInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeList": "직원리스트",
+	"@employeeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employee": "종업원",
+	"@employee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeProfile": "직원 프로필",
+	"@employeeProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupLanguage": "설치 언어",
+	"@setupLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheStall": "스톨 설정",
+	"@setupTheStall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupPrinter": "설정 프린터",
+	"@setupPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorList": "방문자 목록",
+	"@visitorList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"boardSetting": "보드 설정",
+	"@boardSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pairCode": "페어 코드",
+	"@pairCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"window": "창문",
+	"@window": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceList": "서비스 목록",
+	"@serviceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceForm": "서비스 양식",
+	"@serviceForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceName": "작업 명",
+	"@serviceName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceLetter": "서비스 레터",
+	"@serviceLetter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"startNumber": "시작 번호",
+	"@startNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupWindow": "설정 창",
+	"@setupWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowForm": "창 형태",
+	"@windowForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowName": "창 이름",
+	"@windowName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableWindow": "창 활성화",
+	"@enableWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editWindow": "편집 창",
+	"@editWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openServiceList": "서비스 목록 열기",
+	"@openServiceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveUp": "이동",
+	"@moveUp": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveDown": "아래로 이동",
+	"@moveDown": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editService": "서비스 편집",
+	"@editService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitUsAt": "우리를 방문",
+	"@visitUsAt": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appName": "앱 이름",
+	"@appName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"packageName": "패키지 이름",
+	"@packageName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"buildNumber": "빌드 번호",
+	"@buildNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionNumber": "버전 번호",
+	"@versionNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"termsOfUse": "이용 약관",
+	"@termsOfUse": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacy": "은둔",
+	"@privacy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacyPolicy": "개인 정보 정책",
+	"@privacyPolicy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"device": "장치",
+	"@device": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrint": "시험 인쇄",
+	"@testPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"printToken": "프린트 토큰",
+	"@printToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenDetail": "토큰 정보",
+	"@tokenDetail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAsCompleted": "완료로 표시",
+	"@markAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAllAsCompleted": "모두 완료로 표시",
+	"@markAllAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markComplete": "마크 완료",
+	"@markComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recallToken": "리콜 토큰",
+	"@recallToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"transferToken": "양도 토큰",
+	"@transferToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"homePage": "홈페이지",
+	"@homePage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dashboard": "계기반",
+	"@dashboard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editCounter": "카운터 편집",
+	"@editCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openEditCounter": "편집 카운터 열기",
+	"@openEditCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCounterList": "카운터 목록 열기",
+	"@openCounterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupFunctionality": "설정 기능",
+	"@setupFunctionality": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iWillBeTheEmployee": "나는 직원이 될 것이다",
+	"@iWillBeTheEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupCounter": "설정 카운터",
+	"@setupCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"completed": "완료된",
+	"@completed": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBizInfo": "비즈니스 정보 설정",
+	"@setupBizInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupOpeningHours": "영업 시간 설정",
+	"@setupOpeningHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupMaxTokenNumber": "최대 토큰 번호 설정",
+	"@setupMaxTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOrDisable": "활성화 또는 비활성화",
+	"@enableOrDisable": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openingHours": "개관 시간",
+	"@openingHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"backgroundColor": "배경색",
+	"@backgroundColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"textColor": "글자 색",
+	"@textColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"numberOfTokenBox": "토큰 상자 수",
+	"@numberOfTokenBox": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenBoxNumber": "토큰 박스 번호",
+	"@tokenBoxNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fontScale": "폰트 스케일",
+	"@fontScale": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pageSize": "페이지 크기",
+	"@pageSize": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancelToken": "토큰 취소",
+	"@cancelToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportIssue": "보고서 발행",
+	"@reportIssue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shareTokenInfo": "토큰 정보 공유",
+	"@shareTokenInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBoardScreen": "열린 보드 화면",
+	"@openBoardScreen": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBizProfile": "비즈니스 프로필 열기",
+	"@openBizProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCanceled": "토큰 취소",
+	"@tokenCanceled": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addVideo": "비디오 추가",
+	"@addVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeVideo": "비디오 제거",
+	"@removeVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCreated": "토큰 생성",
+	"@tokenCreated": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addWindow": "창 추가",
+	"@addWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addService": "서비스 추가",
+	"@addService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addCounter": "카운터 추가",
+	"@addCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addEmployee": "직원 추가",
+	"@addEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPrinter": "프린터 추가",
+	"@addPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hours": "시간",
+	"@hours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCompany": "회사 선택",
+	"@selectCompany": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenInformation": "토큰 정보",
+	"@tokenInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWaze": "Waze 열기",
+	"@openWaze": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectYourCountry": "당신의 나라를 선택하세요",
+	"@selectYourCountry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branch": "지점",
+	"@branch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editBranch": "지점 편집",
+	"@editBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branchInfo": "지점 정보",
+	"@branchInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentBranch": "현재 지점",
+	"@currentBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"smsHistory": "SMS 역사",
+	"@smsHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branches": "지점",
+	"@branches": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addBranch": "지점 추가",
+	"@addBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addMessage": "메시지 추가",
+	"deleteMessage": "메시지 삭제",
+	"messageInfo": "메시지 정보",
+	"messageList": "메시지리스트",
+	"pushMessage": "푸시 메시지",
+	"appearance": "외관",
+	"qrcode": "QR 코드",
+	"scan": "주사"
+}

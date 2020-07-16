@@ -1,0 +1,1582 @@
+{
+	"@@last_modified": "2020-06-03T06:56:27.341772",
+	"title": "Paperless QMS",
+	"@title": {
+		"description": "Paperless QMS",
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperless": "Tanpa kertas",
+	"@paperless": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"paperlessQmsPlan": "Pelan QMS Tanpa Kertas",
+	"@paperlessQmsPlan": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectWindow": "Pilih Tetingkap",
+	"@selectWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verifyAccount": "Mengesahkan Akaun",
+	"@verifyAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moreInformation": "Maklumat lanjut",
+	"@moreInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscription": "Langganan",
+	"@subscription": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"success": "Kejayaan",
+	"@success": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"status": "status",
+	"@status": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fail": "Gagal",
+	"@fail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whoAmI": "Siapakah saya?",
+	"@whoAmI": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectRole": "Pilih peranan",
+	"@selectRole": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"service": "Perkhidmatan",
+	"@service": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentWindow": "Tetingkap Semasa",
+	"@currentWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheBusiness": "Menubuhkan Perniagaan",
+	"@setupTheBusiness": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenManagement": "Pengurusan Token",
+	"@tokenManagement": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"webSite": "Laman web",
+	"@webSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"downloadData": "Muat turun Data",
+	"@downloadData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackData": "Data Maklum Balas",
+	"@feedbackData": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast1Days": "Data Maklum Balas 1 Hari Terakhir",
+	"@feedbackDataLast1Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast3Days": "Data Maklum Balas 3 Hari Terakhir",
+	"@feedbackDataLast3Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedbackDataLast7Days": "Data Maklum Balas 7 Hari Terakhir",
+	"@feedbackDataLast7Days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"feedback": "Maklumbalas",
+	"@feedback": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windows": "Tingkap",
+	"@windows": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowInfo": "Maklumat Tetingkap",
+	"@windowInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPhoto": "Tambah Foto",
+	"@addPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removePhoto": "Alih keluar Foto",
+	"@removePhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addLogo": "Tambah Logo",
+	"@addLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeLogo": "Keluarkan Logo",
+	"@removeLogo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"makeIdle": "Buat Menganggur",
+	"@makeIdle": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"readThis": "Baca ini",
+	"@readThis": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmEmployee": "Saya Pekerja",
+	"@iAmEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iAmAdmin": "Saya ADMIN",
+	"@iAmAdmin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openImageGalerry": "Buka Gambar Galerry",
+	"@openImageGalerry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCamera": "Buka kamera",
+	"@openCamera": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"done": "Selesai",
+	"@done": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"message": "Mesej",
+	"@message": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myToken": "Token saya",
+	"@myToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addToken": "Tambah Token",
+	"@addToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"create": "Buat",
+	"@create": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"businessInfo": "Maklumat perniagaan",
+	"@businessInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterInfo": "Maklumat Kaunter",
+	"@counterInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"queueHistory": "Sejarah Beratur",
+	"@queueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorHistory": "Sejarah Pelawat",
+	"@visitorHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceInfo": "Maklumat Perkhidmatan",
+	"@serviceInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"personalInfo": "Maklumat peribadi",
+	"@personalInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hello": "Helo",
+	"@hello": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setting": "Menetapkan",
+	"@setting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"permission": "Kebenaran",
+	"@permission": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"peopleWait": "Orang yang menunggu",
+	"@peopleWait": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenNumber": "Nombor Token",
+	"@tokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"proceedTo": "Teruskan ke",
+	"@proceedTo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counter": "Kaunter",
+	"@counter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waiting": "Menunggu",
+	"@waiting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createdDate": "Dicipta",
+	"@createdDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"statusQueue": "status",
+	"@statusQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentToken": "Token Semasa",
+	"@currentToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueue": "Antrian Saya",
+	"@myQueue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"more": "Lebih banyak lagi",
+	"@more": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myQueueToday": "Antrian Saya Hari Ini",
+	"@myQueueToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWebSite": "Buka Laman Web",
+	"@openWebSite": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribe": "Langgan",
+	"@subscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"unsubscribe": "Nyahlanggan",
+	"@unsubscribe": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"share": "Kongsi",
+	"@share": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notification": "Pemberitahuan",
+	"@notification": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"vibration": "Getaran",
+	"@vibration": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"name": "Nama",
+	"@name": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"runningOn": "Berlangsung",
+	"@runningOn": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionName": "Nama Versi",
+	"@versionName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionCode": "Kod Versi",
+	"@versionCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appId": "ID Apl",
+	"@appId": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"localTime": "Waktu Tempatan",
+	"@localTime": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timezone": "Zon masa",
+	"@timezone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myPhoneNumber": "Nombor telefon saya",
+	"@myPhoneNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"myEmail": "Email saya",
+	"@myEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"switchAccount": "Tukar akaun",
+	"@switchAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"account": "Akaun",
+	"@account": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"purchaseHistory": "Sejarah pembelian",
+	"@purchaseHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"subscribeNow": "Langgan sekarang",
+	"@subscribeNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"haveAnAccount": "Mempunyai akaun? Masuk",
+	"@haveAnAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signout": "Keluar",
+	"@signout": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"signin": "SIGN IN",
+	"@signin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"login": "Log masuk",
+	"@login": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createAccount": "Buat Akaun",
+	"@createAccount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"forgotPassword": "Lupa kata laluan",
+	"@forgotPassword": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"phone": "Telefon",
+	"@phone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"loginMessage": "Kami akan menghantar mesej SMS untuk mengesahkan identiti anda, sila masukkan nombor anda di bawah!",
+	"@loginMessage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"verificationCode": "Kod pengesahan",
+	"@verificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pinNotArrive": "Sekiranya kod anda tidak sampai dalam 1 minit, sentuh",
+	"@pinNotArrive": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"here": "di sini",
+	"@here": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantExit": "Adakah anda mahu keluar",
+	"@wantExit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ok": "okey",
+	"@ok": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancel": "Batalkan",
+	"@cancel": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"ago": "lalu",
+	"@ago": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wrongVerifyCode": "Kami tidak dapat mengesahkan kod anda, sila cuba lagi!",
+	"@wrongVerifyCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotCreateProfile": "Kami tidak dapat membuat profil anda buat masa ini, sila cuba sebentar lagi",
+	"@cannotCreateProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotRetry": "Anda belum boleh mencuba lagi!",
+	"@cannotRetry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPhoneEmpty": "Nombor telefon anda tidak boleh kosong!",
+	"@cannotPhoneEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidPhone": "Nombor telefon ini tidak sah!",
+	"@invalidPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotVerificationCodeEmpty": "Kod pengesahan anda tidak boleh kosong!",
+	"@cannotVerificationCodeEmpty": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"invalidVerificationCode": "Kod pengesahan ini tidak sah!",
+	"@invalidVerificationCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectLanguage": "Pilih Bahasa",
+	"@selectLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"language": "Bahasa",
+	"@language": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openDisplayUnit": "Buka Unit Paparan",
+	"@openDisplayUnit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showQueueHistory": "Tunjukkan Sejarah Antrian",
+	"@showQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueToken": "Token Isu",
+	"@issueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"home": "HOME",
+	"@home": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"waitedForComplete": "Menunggu Selesai",
+	"@waitedForComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotIssueTokenHoliday": "Anda tidak boleh mengeluarkan token semasa percutian. Hari ini adalah",
+	"@cannotIssueTokenHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"mustIssueTokenOfficeHours": "Anda mesti mengeluarkan token pada waktu pejabat",
+	"@mustIssueTokenOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"notMeetTimeInterval": "Tidak memenuhi selang waktu untuk membuat token seterusnya.",
+	"@notMeetTimeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenList": "Senarai Token",
+	"@tokenList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"nextToken": "Token Seterusnya",
+	"@nextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectDepartment": "Pilih Jabatan",
+	"@selectDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCounter": "Pilih Kaunter",
+	"@selectCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recall": "Ingat semula",
+	"@recall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentStore": "KEDAI SEMASA",
+	"@currentStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeList": "Senarai Kedai",
+	"@storeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouWantRecall": "Adakah anda mahu ingat?",
+	"@doYouWantRecall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"deparment": "Deparment",
+	"@deparment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightCompare": "Perbandingan Wawasan",
+	"@insightCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightLast7days": "Wawasan 7 Hari Terakhir",
+	"@insightLast7days": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insightToday": "Wawasan Hari Ini",
+	"@insightToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHours": "Waktu pejabat",
+	"@officeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"publicHolidays": "Cuti umum",
+	"@publicHolidays": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeForm": "Borang Stor",
+	"@storeForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportCompare": "Laporkan Bandingkan",
+	"@reportCompare": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yesterday": "Semalam",
+	"@yesterday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"today": "Hari ini",
+	"@today": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"totalTokenCount": "Jumlah Kiraan Token",
+	"@totalTokenCount": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"report7daysAgo": "Laporkan 7 Hari Lalu",
+	"@report7daysAgo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportPercentageToday": "Laporkan Peratus Hari Ini",
+	"@reportPercentageToday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterList": "Senarai Kaunter",
+	"@counterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createCounter": "Buat Kaunter",
+	"@createCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentList": "Senarai Jabatan",
+	"@departmentList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"departmentForm": "Borang Jabatan",
+	"@departmentForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createDepartment": "Buat Jabatan",
+	"@createDepartment": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"letter": "SURAT",
+	"@letter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"start": "Mulakan",
+	"@start": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueToken": "Selang Masa untuk Mengeluarkan Token",
+	"@timeIntervalToIssueToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalToIssueTokenText": "Selang Masa adalah untuk mengelakkan pengguna mengulangi token. Ini adalah pengaturan dalam unit minitue.",
+	"@timeIntervalToIssueTokenText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeInterval": "Selang Masa",
+	"@timeInterval": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"timeIntervalHint": "Contoh: 2 minit",
+	"@timeIntervalHint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"save": "Simpan",
+	"@save": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayList": "Senarai Percutian",
+	"@holidayList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayDate": "Tarikh Percutian",
+	"@holidayDate": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"whatIsHolidayName": "Apa itu Nama Percutian?",
+	"@whatIsHolidayName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pleaseEnterSomeText": "Sila Masukkan Sebilangan Teks",
+	"@pleaseEnterSomeText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createHoliday": "Buat Percutian",
+	"@createHoliday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"holidayForm": "Borang Percutian",
+	"@holidayForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableHolidayText": "Untuk mengaktifkan Percutian, suis HARUS dihidupkan.",
+	"@enableHolidayText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursList": "Senarai Waktu Pejabat",
+	"@officeHoursList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"createOfficeHours": "Buat Waktu Pejabat",
+	"@createOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableThisStore": "Aktifkan Kedai Ini",
+	"@enableThisStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"edit": "Edit",
+	"@edit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"submit": "mengemukakan",
+	"@submit": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"register": "Daftar",
+	"@register": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"counterForm": "Borang Kaunter",
+	"@counterForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantResetTokenNumber": "Adakah anda mahu menetapkan semula nombor token untuk memulakan nombor?",
+	"@wantResetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"resetTokenNumber": "Tetapkan Semula Nombor Token",
+	"@resetTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"yes": "Ya",
+	"@yes": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"no": "Tidak",
+	"@no": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"doYouAccept": "Adakah anda terima?",
+	"@doYouAccept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callToken": "Panggil Token",
+	"@callToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"toStartNumber": "untuk Memulakan Nombor",
+	"@toStartNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"officeHoursForm": "Borang Waktu Pejabat",
+	"@officeHoursForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOfficeHours": "Untuk membolehkan mengeluarkan token pada aplikasi klien, suis HARUS dihidupkan.",
+	"@enableOfficeHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"monday": "Isnin",
+	"@monday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tuesday": "Selasa",
+	"@tuesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wednesday": "Rabu",
+	"@wednesday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"thursday": "Khamis",
+	"@thursday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"friday": "Jumaat",
+	"@friday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"saturday": "Sabtu",
+	"@saturday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sunday": "Ahad",
+	"@sunday": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"admin": "Admin",
+	"@admin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"adminLogin": "Log masuk Pentadbir",
+	"@adminLogin": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"captured": "Ditangkap",
+	"@captured": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"meter": "meter",
+	"@meter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"kilometer": "kilometer",
+	"@kilometer": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"away": "jauh",
+	"@away": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"distance": "Jarak",
+	"@distance": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"userProfile": "Profil pengguna",
+	"@userProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorProfile": "Profil Pelawat",
+	"@visitorProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appInfo": "Maklumat Aplikasi",
+	"@appInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"online": "Online",
+	"@online": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"offline": "Luar talian",
+	"@offline": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"noMoreNextToken": "Tiada Lagi Token Seterusnya",
+	"@noMoreNextToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"issueTokenAdminText": "Pengguna dengan e-mel ini harus log masuk dengan APP pelanggan untuk memeriksa nombor token terkini masa nyata.",
+	"@issueTokenAdminText": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"remove": "Keluarkan",
+	"@remove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantRemove": "Adakah anda mahu mengalih keluar?",
+	"@wantRemove": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"store": "Kedai",
+	"@store": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"availableStore": "Kedai yang Ada",
+	"@availableStore": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"address": "Alamat",
+	"@address": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dialPhone": "Dail Telefon",
+	"@dialPhone": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dial": "Dail",
+	"@dial": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"sendEmail": "Menghantar e-mel",
+	"@sendEmail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"email": "E-mel",
+	"@email": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"code": "Kod",
+	"@code": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"password": "Kata laluan",
+	"@password": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"coordinates": "Koordinat",
+	"@coordinates": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"showWaitingQueueHistory": "Tunjukkan Sejarah Antrian Menunggu",
+	"@showWaitingQueueHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"wantConfirm": "Sahkan?",
+	"@wantConfirm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"storeSetting": "Tetapan Kedai",
+	"@storeSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"insight": "Wawasan",
+	"@insight": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"otherSetting": "Tetapan Lain",
+	"@otherSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"options": "Pilihan",
+	"@options": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"callNow": "Hubungi Sekarang",
+	"@callNow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBluetoothPrinter": "Sediakan Pencetak Bluetooth",
+	"@setupBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectBluetoothPrinter": "Pilih Pencetak Bluetooth",
+	"@selectBluetoothPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"discoverBluetooth": "Cari Bluetooth",
+	"@discoverBluetooth": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connect": "Sambung",
+	"@connect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"disconnect": "Putuskan sambungan",
+	"@disconnect": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrinting": "Percetakan Ujian",
+	"@testPrinting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"connection": "Sambungan",
+	"@connection": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cannotPrint": "Tidak Boleh Mencetak",
+	"@cannotPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"close": "Tutup",
+	"@close": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectPhoto": "Pilih Foto",
+	"@selectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"onlyAcceptImageFormatNote": "Hanya Terima Format Gambar",
+	"@onlyAcceptImageFormatNote": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectAndUploadPhoto": "Pilih Dan Muat Naik Foto",
+	"@selectAndUploadPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shouldSelectPhoto": "Sekiranya Pilih Foto",
+	"@shouldSelectPhoto": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowWizard": "Ahli Sihir Tetingkap",
+	"@windowWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceWizard": "Wizard Perkhidmatan",
+	"@serviceWizard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"next": "Seterusnya",
+	"@next": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"accept": "Terima",
+	"@accept": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupEmployees": "Menetapkan Pekerja",
+	"@setupEmployees": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editEmployee": "Edit Pekerja",
+	"@editEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeInfo": "Maklumat Pekerja",
+	"@employeeInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeList": "Senarai Pekerja",
+	"@employeeList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employee": "Pekerja",
+	"@employee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"employeeProfile": "Profil Pekerja",
+	"@employeeProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupLanguage": "Bahasa Persediaan",
+	"@setupLanguage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupTheStall": "Sediakan Gerai",
+	"@setupTheStall": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupPrinter": "Persediaan Pencetak",
+	"@setupPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitorList": "Senarai Pelawat",
+	"@visitorList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"boardSetting": "Penetapan Papan",
+	"@boardSetting": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pairCode": "Kod Pasangan",
+	"@pairCode": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"window": "Tingkap",
+	"@window": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceList": "Senarai Perkhidmatan",
+	"@serviceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceForm": "Borang Perkhidmatan",
+	"@serviceForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceName": "Nama Perkhidmatan",
+	"@serviceName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"serviceLetter": "Surat Perkhidmatan",
+	"@serviceLetter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"startNumber": "Nombor Mula",
+	"@startNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupWindow": "Tetingkap Persediaan",
+	"@setupWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowForm": "Borang Tingkap",
+	"@windowForm": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"windowName": "Nama Tetingkap",
+	"@windowName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableWindow": "Dayakan Tetingkap",
+	"@enableWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editWindow": "Edit Tetingkap",
+	"@editWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openServiceList": "Buka Senarai Perkhidmatan",
+	"@openServiceList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveUp": "Bergerak ke atas",
+	"@moveUp": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"moveDown": "Bergerak ke bawah",
+	"@moveDown": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editService": "Edit Perkhidmatan",
+	"@editService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"visitUsAt": "Lawati kami di",
+	"@visitUsAt": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"appName": "Nama Aplikasi",
+	"@appName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"packageName": "Nama Pakej",
+	"@packageName": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"buildNumber": "Nombor Binaan",
+	"@buildNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"versionNumber": "Nombor Versi",
+	"@versionNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"termsOfUse": "Syarat penggunaan",
+	"@termsOfUse": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacy": "Privasi",
+	"@privacy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"privacyPolicy": "Dasar privasi",
+	"@privacyPolicy": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"device": "Peranti",
+	"@device": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"testPrint": "Cetakan Ujian",
+	"@testPrint": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"printToken": "Cetak Token",
+	"@printToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenDetail": "Perincian Token",
+	"@tokenDetail": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAsCompleted": "Tandakan sebagai Selesai",
+	"@markAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markAllAsCompleted": "Tandakan Semua sebagai Selesai",
+	"@markAllAsCompleted": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"markComplete": "Tandakan Selesai",
+	"@markComplete": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"recallToken": "Ingat Token",
+	"@recallToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"transferToken": "Transfer Token",
+	"@transferToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"homePage": "Halaman Utama",
+	"@homePage": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"dashboard": "Papan Pemuka",
+	"@dashboard": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editCounter": "Edit Kaunter",
+	"@editCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openEditCounter": "Buka Kaunter Edit",
+	"@openEditCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openCounterList": "Buka Senarai Kaunter",
+	"@openCounterList": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupFunctionality": "Fungsi Persediaan",
+	"@setupFunctionality": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"iWillBeTheEmployee": "Saya Akan Menjadi Pekerja",
+	"@iWillBeTheEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupCounter": "Kaunter Persediaan",
+	"@setupCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"completed": "Selesai",
+	"@completed": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupBizInfo": "Siapkan Maklumat Perniagaan",
+	"@setupBizInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupOpeningHours": "Jam Buka Persediaan",
+	"@setupOpeningHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"setupMaxTokenNumber": "Sediakan Nombor Token Maks",
+	"@setupMaxTokenNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"enableOrDisable": "Dayakan Atau Lumpuhkan",
+	"@enableOrDisable": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openingHours": "Waktu pembukaan",
+	"@openingHours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"backgroundColor": "Warna latar belakang",
+	"@backgroundColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"textColor": "Warna Teks",
+	"@textColor": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"numberOfTokenBox": "Bilangan Kotak Token",
+	"@numberOfTokenBox": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenBoxNumber": "Nombor Kotak Token",
+	"@tokenBoxNumber": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"fontScale": "Skala Font",
+	"@fontScale": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"pageSize": "Saiz Halaman",
+	"@pageSize": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"cancelToken": "Batalkan Token",
+	"@cancelToken": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"reportIssue": "Isu Laporan",
+	"@reportIssue": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"shareTokenInfo": "Kongsi Maklumat Token",
+	"@shareTokenInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBoardScreen": "Buka Skrin Papan",
+	"@openBoardScreen": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openBizProfile": "Buka Profil Biz",
+	"@openBizProfile": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCanceled": "Token Dibatalkan",
+	"@tokenCanceled": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addVideo": "Tambah video",
+	"@addVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"removeVideo": "Alih keluar Video",
+	"@removeVideo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenCreated": "Token Dibuat",
+	"@tokenCreated": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addWindow": "Tambah Tetingkap",
+	"@addWindow": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addService": "Tambah Perkhidmatan",
+	"@addService": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addCounter": "Tambah Kaunter",
+	"@addCounter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addEmployee": "Tambah Pekerja",
+	"@addEmployee": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addPrinter": "Tambah Pencetak",
+	"@addPrinter": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"hours": "Jam",
+	"@hours": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectCompany": "Pilih Syarikat",
+	"@selectCompany": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"tokenInformation": "Maklumat Token",
+	"@tokenInformation": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"openWaze": "Buka Waze",
+	"@openWaze": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"selectYourCountry": "Pilih negara anda",
+	"@selectYourCountry": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branch": "Cawangan",
+	"@branch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"editBranch": "Edit Cawangan",
+	"@editBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branchInfo": "Maklumat Cawangan",
+	"@branchInfo": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"currentBranch": "Cawangan Semasa",
+	"@currentBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"smsHistory": "Sejarah SMS",
+	"@smsHistory": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"branches": "Cawangan",
+	"@branches": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addBranch": "Tambah Cawangan",
+	"@addBranch": {
+		"type": "text",
+		"placeholders": {}
+	},
+	"addMessage": "Tambah Mesej",
+	"deleteMessage": "Padamkan Mesej",
+	"messageInfo": "Maklumat Mesej",
+	"messageList": "Senarai Mesej",
+	"pushMessage": "Mesej Tolak",
+	"appearance": "Penampilan",
+	"qrcode": "Kod QR",
+	"scan": "Imbas"
+}
