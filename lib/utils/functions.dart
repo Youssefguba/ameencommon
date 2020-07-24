@@ -7,6 +7,7 @@ import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:geolocator/geolocator.dart';
+import 'package:hover/hover.dart';
 import 'package:intl/intl.dart';
 import 'package:mime/mime.dart';
 
@@ -100,6 +101,8 @@ void createPost(CollectionReference postsRef, String userId, userPostsDoc, postI
     'created_at': DateTime.now(),
     'profilePicture': profilePicture,
     'ameen': Map<dynamic, dynamic>(),
+    'recommend': Map<dynamic, dynamic>(),
+    'forbidden': Map<dynamic, dynamic>(),
   });
 
   timelineRef.document(postId)
@@ -111,6 +114,8 @@ void createPost(CollectionReference postsRef, String userId, userPostsDoc, postI
     'created_at': DateTime.now(),
     'profilePicture': profilePicture,
     'ameen': Map<dynamic, dynamic>(),
+    'recommend': Map<dynamic, dynamic>(),
+    'forbidden': Map<dynamic, dynamic>(),
   });
 }
 
@@ -155,9 +160,38 @@ Future<UserModel> getUserData(String uid) async {
 }
 
 
-Future getLastMessageInChat(currentUserId, peerId) {
+void addReactionToActivityFeed({@required currentUserId, @required  authorId, @required postId, @required username, @required userId, @required profilePicture, @required typeOfReaction}) {
+  bool isNotPostOwner = currentUserId != authorId;
+  if (isNotPostOwner) {
+    DbRefs.activityFeedRef
+        .document(authorId)
+        .collection('feedItems')
+        .document(postId)
+        .setData({
+      'type': typeOfReaction,
+      'username': username,
+      'userId': userId,
+      'profilePicture': profilePicture,
+      'postId': postId,
+      'created_at': DateTime.now()
+    });
+  }
+}
 
-
+void deleteReactionToActivityFeed({@required currentUserId, @required  authorId, @required postId}) {
+  bool isNotPostOwner = currentUserId != authorId;
+  if (isNotPostOwner) {
+    DbRefs.activityFeedRef
+        .document(authorId)
+        .collection('feedItems')
+        .document(postId)
+        .get()
+        .then((doc) {
+      if (doc.exists) {
+        doc.reference.delete();
+      }
+    });
+  }
 }
 
 

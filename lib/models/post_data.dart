@@ -38,9 +38,10 @@ class PostData {
   int ameenCount;
   Timestamp postTime;
   dynamic ameenReaction;
+  dynamic recommendReaction;
+  dynamic forbiddenReaction;
   List<CommentModel> comments;
-  List<RecommendReaction> recommendReaction;
-  List<ForbiddenReaction> forbiddenReaction;
+
 
   PostData({
     this.postId,
@@ -97,6 +98,8 @@ class PostData {
       authorId: doc['userId'],
       postId: doc['postId'],
       ameenReaction: doc['ameen'],
+      recommendReaction: doc['recommend'],
+      forbiddenReaction: doc['forbidden'],
       postTime: doc['created_at'],
       authorPhoto: doc['profilePicture'],
     );
@@ -105,11 +108,39 @@ class PostData {
 
   int getAmeenCount(ameen) {
     // if no likes, return 0
-    if (ameenReaction == null) {
+    if (recommendReaction == null && ameenReaction ==null && forbiddenReaction == null) {
       return 0;
     }
     int count = 0;
     ameenReaction.values.forEach((val) {
+      if (val == true) {
+        count += 1;
+      }
+    });
+    return count;
+  }
+
+  int getRecommendCount(recommend) {
+    // if no likes, return 0
+    if (recommendReaction == null && ameenReaction ==null && forbiddenReaction == null) {
+      return 0;
+    }
+    int count = 0;
+    recommendReaction.values.forEach((val) {
+      if (val == true) {
+        count += 1;
+      }
+    });
+    return count;
+  }
+
+  int getForbiddenCount(forbidden) {
+    // if no likes, return 0
+    if (recommendReaction == null && ameenReaction == null && forbiddenReaction == null) {
+      return 0;
+    }
+    int count = 0;
+    forbiddenReaction.values.forEach((val) {
       if (val == true) {
         count += 1;
       }

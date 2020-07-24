@@ -55,6 +55,7 @@ class AppTexts {
 
 
 class AppImages {
+  static const blackPrayIcon = 'assets/images/pray_icon.png';
   static const coloredPrayIcon = 'assets/images/pray_color.png';
   static const coloredRecommendIcon = 'assets/images/recommend_color.png';
   static const coloredForbiddenIcon = 'assets/images/forbidden_color.png';
